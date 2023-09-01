@@ -17,14 +17,17 @@ application:
   rule:
     #远程规则
     remote:
-      - name: Bibaiji adrules 
-        path: https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/ad-rules.txt 
+      - name: anti-ad 
+        path: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt 
 
-      - name: Bibaiji private
-        path: https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/local-rule.txt
+      - name: AdRules AdBlock List
+        path: https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 
-      - name: xndeye adblocklist 
-        path: https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt 
+      - name:  halflife-list 
+        path: https://github.com/sbwml/halflife-list/blob/master/ad-pc.txt 
+        
+      - name:  ADgk 
+        path: https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
