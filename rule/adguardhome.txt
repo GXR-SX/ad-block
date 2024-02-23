@@ -1,168 +1,7 @@
 [xndeye Adblock List]
 ! Title: adguardhome.txt
-! Last Modified: 2024-02-23 09:01:52
+! Last Modified: 2024-02-23 16:18:05
 ! Homepage: https://github.com/xndeye/adblock_list
-! 👇This Part Merge from: halflife-list (https://github.com/sbwml/halflife-list/blob/master/ad-pc.txt)
-          Code
-              Sign up
-      Enterprise
-      Manage cookies
-                required
-      <button
-          hidden
-      Partners
-        Automate any workflow
-<dialog-helper>
-          Sign in
-                <li>
-      Education
-<html
-  <head>
-              <input
-        Provide feedback
-      Customer Stories
-    data-discussion-hovercards-enabled
-      GitHub Skills
-        Search
-      <span>
-        Fund open source developers
-  <div
-        Manage code changes
-        Saved searches
-              Search syntax tips
-        Product
-    data-commit-hovercards-enabled
-    You can’t perform that action at this time.
-<!DOCTYPE html>
-<react-partial
-                <ul
-<react-app
-  >
-      DevOps
-          Pull requests
-      Teams
-                  "
-        Host and manage packages
-      Do not share my personal information
-      Startups
-          Security
-        Find and fix vulnerabilities
-        GitHub community articles
-        sbwml
-    data-issue-and-pr-hovercards-enabled
-        Solutions
-      <div>
-        Open Source
-      Topics
-          Star
-          Insights
-        Write better code with AI
-      Blog
-      Trending
-      Collections
-        Plan and track work
-        Instant dev environments
-      DevSecOps
-  <cookie-consent-link>
-        Collaborate outside of code
-      Documentation
-          Actions
-      All features
-      Learning Pathways
-! 👇This Part Merge from: anti-ad (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
-||da.hornbach.*^
-||appsflyer*.*^
-||brucelead*.com^
-||cloudservice*.kingsoft-office-service.com^
-||adsystem*.*^
-||adsrvmedia*.*^
-||analysis*.*^
-||bj*.9669.cn^
-||ad-*.net^
-||log.*.hunantv.com^
-||admaster*.*^
-||webads.*^
-||umtrack*.com^
-||admarvel*.*^
-||omniture*.*^
-||vente-unique.*^
-||assoc-amazon.*^
-||clientlog*.music.163.com^
-||flightzy.*^
-||omgmta*.*^
-||tuiguang.*^
-||tr.*.espmp-*fr.net^
-@@||profile*.se.360.cn^
-||wafmedia*.*^
-||jshosting.*^
-||gostats.*^
-||adserver.*^
-||web-stat.*^
-||imglnk*.com^
-||adsage*.*^
-||adsensor*.*^
-||24log.*^
-||voluumtrk*.com^
-||usage*.*^
-||2cnjuh34j*.com^
-||ad-*.wikawika.xyz^
-||vs*.gzcu.u3.ucweb.com^
-||duomeng*.*^
-||dwtrack*.*^
-||engage.3m*^
-||adm*.autoimg.cn^
-||ads*-normal-hl.zijieapi.com^
-||xn--xhq9mt12cf5v.*^
-||grjs0*.com^
-||ad-*.com^
-||applovin*.*^
-||hostingcloud.*^
-||vegaoo*.*^
-||ads*-adnow.com^
-||clkservice*.youdao.com^
-||supersonicads*.*^
-||putrr*.com^
-||admob.*^
-||sunnimiq*.cf^
-||count*.pconline.com.cn^
-||log*.molitv.cn^
-||ping.*.sogou.com^
-||adsmogo*.*^
-||iflyad.*.openstorage.cn^
-||freecontent.*^
-||ssc.southpark*^
-||24smi.*^
-||doubleclick*.xyz^
-||waframedia*.*^
-||adservice*.*^
-||xn--wxtr9fwyxk9c.*^
-||bs*.9669.cn^
-||p*-ad-sign.byteimg.com^
-||pingfore*.*^
-||pussl*.com^
-||openx*.*^
-||admicro*.vcmedia.vn^
-||darking*.tk^
-||ad*.molitv.cn^
-||ablen*.tk^
-||gg*.miguvideo.com^
-||dsp*.youdao.com^
-||sda*.xyz^
-||domob*.*^
-||guanggao*.*^
-||aeros*.tk^
-||f-log*.grammarly.io^
-||oiwjcsh*.top^
-||socdm*.*^
-||adsh*.*^
-||vmm-satellite*.com^
-||partnerad*.*^
-@@||tongji.*kuwo.cn^
-||minero-proxy-*.sh^
-||qchannel*.cn^
-||gg*.51cto.com^
-||analyzer*.fc2.com^
-||tracker*.qcloud.com^
 ! 👇This Part Merge from: anti-ad (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||downeconomywp.advancedtech.com^
 ||alienateclergy.com^
@@ -248,7 +87,6 @@
 ||aijiamao.top^
 ||web.info.aspirus.org^
 ||athletedurable.com^
-@@||ad.azure.com^
 ||9yad.com^
 ||adinsight.com^
 ||ixnj.8j24h.cn^
@@ -312,6 +150,7 @@
 ||aueajkn.cn^
 ||b2be2dbdc8.com^
 ||tk.airfrance.ga^
+||monitor-uu.play.aiseet.atianqi.com^
 ||info.virtusbenefits.aleragroup.com^
 ||4i-app-mobile.com^
 ||ahw3.com^
@@ -419,6 +258,7 @@
 ||e.5qk4xi.cn^
 ||thialfi.net.anwalt.de^
 ||6016799644.com^
+||adultfriendfinder.com^
 ||annoyedairport.com^
 ||adthletic.com^
 ||alzexa.com^
@@ -455,7 +295,6 @@
 ||data.email-signify.cjm.adobe.com^
 ||titomacia.net.anwalt.de^
 ||areajou.com^
-||channel.m.163.com^
 ||76a7doiet256.com^
 ||email.axisintegrated.ca^
 ||gg.0598yu.com^
@@ -709,7 +548,6 @@
 ||absolvecarriagenotify.com^
 ||a8clk.292957.jp^
 ||aosmicvirago.com^
-@@||ad-gone.com^
 ||m.51t4d.cn^
 ||link-be.alan.com^
 ||online.net.anwalt.de^
@@ -1592,6 +1430,7 @@
 ||aigligno.net^
 ||lp.demo5.demoamericas275.adobe.com^
 ||8j1f0af5.de^
+||analysys.cn^
 ||19528681.com^
 ||apptap.com^
 ||amarceusan.com^
@@ -1656,7 +1495,6 @@
 ||7vnkf.online^
 ||qlqvej.bahia-principe.com^
 ||active-trk7.com^
-||e-p4p.163.com^
 ||abedwest.com^
 ||xp.allianz.de^
 ||m.183pu.cn^
@@ -1880,6 +1718,7 @@
 ||agma-analytics.de^
 ||appendixwarmingauthors.com^
 ||pgs.aviationweek.com^
+||appcpa.net^
 ||s1.2mdn.net^
 ||749558.com^
 ||applink.beta.aspiration.com^
@@ -2060,6 +1899,7 @@
 ||authognu.com^
 ||m.75l3g.cn^
 ||adten.eu^
+||au737.com^
 ||adnet.ru^
 ||move.azets.dk^
 ||065b42ba2b.se^
@@ -2145,6 +1985,7 @@
 ||agreeable-target.pro^
 ||analoganalytics.com^
 ||mmwebhandler.888.com^
+||lives.l.aiseet.atianqi.com^
 ||8e9d62ac9b.com^
 ||actuallysheep.com^
 ||aefeeqdlnh.com^
@@ -3317,7 +3158,6 @@
 ||go2.altaro.com^
 ||memelq.acs.org^
 ||arizonapuzzle.com^
-||114so.cn^
 ||s.456jjh.cn^
 ||download.backpackergame.com^
 ||tr.infos.afpa.fr^
@@ -3601,6 +3441,7 @@
 ||sa.adidas.co.nz^
 ||3gu.com^
 ||srepdata.armytimes.com^
+||asiafriendfinder.com^
 ||adsinstant.com^
 ||fma7.aegon.es^
 ||marketing.alaskavisit.com^
@@ -3815,7 +3656,6 @@
 ||abdicatehorrified.com^
 ||6a34d15d38.com^
 ||ankghgcgygyfi.com^
-||sdc.10086.cn^
 ||5cbbdb4434.com^
 ||popme.163.com^
 ||audiencesquare.com^
@@ -3991,7 +3831,6 @@
 @@||widget.rave.office.net^
 ||api.22lianmeng.com^
 ||x.9dagui.com^
-||hpd.baidu.cn^
 ||1mxabnt.com^
 ||alertsecurities.in^
 ||m.78o5a.cn^
@@ -4654,6 +4493,7 @@
 ||sstats.alliander.com^
 ||appboycdn.com^
 ||absump.com^
+||2.arpun.com^
 ||aolusb.com^
 ||logs.animaapp.com^
 ||allhotfeed.com^
@@ -5122,7 +4962,6 @@
 ||app.info.americanpublicmediagroup.org^
 ||august15download.com^
 ||anhm.acv5e.cn^
-||g.163.com^
 ||ambushharmlessalmost.com^
 ||adamatic.co^
 ||0x1f4b0.com^
@@ -5309,6 +5148,7 @@
 ||adjustcolonyfaintest.com^
 ||51dql.com^
 ||a8.andethic.com^
+||appdriver.cn^
 ||186078.com^
 ||awrgkd.1000farmacie.it^
 ||net.asambeauty.com^
@@ -5368,6 +5208,7 @@
 ||m.131pu.cn^
 ||1a8f9rq9c.de^
 ||asccdn.com^
+||baidu-taobao-av.com^
 ||a8cv.alvo.co.jp^
 ||aqtracker.com^
 ||adrise.de^
@@ -5560,6 +5401,7 @@
 ||6789.net^
 ||y.21haodianmt.com^
 ||dm.51okc.com^
+||appuu.cn^
 ||ashionismscol.info^
 ||m.0pi84.cn^
 ||zurjxe.armine.com^
@@ -5848,7 +5690,6 @@
 @@||torproject.org^
 ||adipolo.com^
 ||anchusauredo.com^
-||2020mustang.com^
 ||baguioattalea.com^
 ||drvmy.ats68.cn^
 ||qtpb.12jf3.cn^
@@ -6334,12 +6175,12 @@
 ||branch.connect.actionnetwork.com^
 ||js.92aliyun.com^
 ||249c9885c1.com^
+||appget.cn^
 ||acceptablearablezoological.com^
 ||collect.adplogger.no^
 ||m.3r76q.cn^
 ||ssl.aszy.club^
 ||pstat.akathists.com^
-@@||ad.ext.azure.com^
 ||3uvz5.xyz^
 ||athostouco.com^
 ||atarget.adelaide.edu.au^
@@ -6374,6 +6215,7 @@
 @@||skyapi.onedrive.live.com^
 ||learn.armaninollp.com^
 ||1503.net^
+||livep.l.aiseet.atianqi.com^
 ||arbbj6.com^
 ||asimov-win.settings.data.microsoft.com.akadns.net^
 ||sadbmetrics.aupaathletic.com^
@@ -6559,6 +6401,7 @@
 ||alwaysc.com^
 ||ajvjpupava.com^
 ||nordicsbtaenrolment.americanexpress.co.uk^
+||adview.cn^
 ||aidspectacle.com^
 ||axp.avaya.com^
 ||as.adfonic.net^
@@ -6662,6 +6505,7 @@
 ||amvmzbmzaryya.top^
 ||amikay.com^
 ||alarmsubjectiveanniversary.com^
+||aiseet.aa.atianqi.com^
 ||dm.aizhan.com^
 ||d-test.39.net^
 ||36b7ca5028.com^
@@ -7114,7 +6958,6 @@
 ||2529.com^
 ||anxioussituation.com^
 ||ads2550.bid^
-||jf.10010.com^
 ||964ka.cn^
 ||754480bd33.com^
 ||adultgameexchange.com^
@@ -7416,6 +7259,7 @@
 ||adsensecamp.com^
 ||apester.com^
 ||acousticsapparel.com^
+||appadhoc.com^
 ||88infra-strat.com^
 ||7944bcc817.com^
 ||collector.api.video^
@@ -8175,7 +8019,6 @@
 ||marketing.apnconsultinginc.com^
 ||lmwap.awtks.com^
 ||marketing.asteracu.com^
-@@||log.mmstat.com^
 ||info.avmalife.org^
 ||m.aduiz.com^
 ||blacktri-a.akamaihd.net^
@@ -8409,7 +8252,6 @@
 ||link.1800contacts.com^
 ||smon.activate.cz^
 ||usao.77gog.com^
-||ipservice.163.com^
 ||adhunt.net^
 ||anrdoezrs.net^
 ||m.52tushuo.com^
@@ -8446,6 +8288,7 @@
 ||2jse6.icu^
 ||adultmoda.com^
 ||tp.ambria.de^
+||sdkconfig.play.aiseet.atianqi.com^
 ||adobe.autoscout24.hr^
 ||learn.altsourcesoftware.com^
 ||ad6media.fr^
@@ -9152,6 +8995,7 @@
 ||tr.acq-pjms.fr^
 ||info.apbspeakers.com^
 ||abcompteur.com^
+||appdriver.com.cn^
 ||ghtry.amateurswild.com^
 ||51xl.xyz^
 ||accoladethoroughly.com^
@@ -9626,7 +9470,6 @@
 ||avengeburglar.com^
 ||abmr.net^
 ||tr.info.aussois.com^
-||01ws5t.cn^
 ||alipaylog.com^
 ||5ejlo.xyz^
 ||asthepoityelth.xyz^
@@ -9745,6 +9588,7 @@
 ||promo.alfaromeo.it^
 ||30ampj.com^
 ||0755rc.com^
+||dp3.play.aiseet.atianqi.com^
 ||e.4tm8na.cn^
 ||appcdn03.xyz^
 ||152media.com^
@@ -10029,73 +9873,95 @@
 ||audeuvco.com^
 ||adoptdischarged.com^
 ||ms.awqsaged.cn^
-! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
-||adx.
-||adx-
-||adsfs.
-||adsdk.
-MRelateFeedAd
-||adsmind.
-||adsfile.
-||bigdata.
-||sell*.etlong.com^
-||smartads.
-||adshare.
-||dm-*.toutiao.com^
-||player.letvcdn.com*.swf|
-||d*.wanzhuang.com^
-||adstats.
-||toujing*.top^
-||popup.*.js*
-||ggg.
-||advert.
-||irs01.
-||advert-
-||allyes.
-||adcolony.
-||advertising.
-||showad*
-||adservice.
-||pagead.
-||djjca.
-||imageadv.
-||m-vali.cp31.ott.cibntv.net*.mp4
-||epochtimes^
-||adapi.
-getAds|
-||adsfileretry.
-||cpro.
-||m7k4.com*.php?
-||adv.
-||adv-
-||appjiagu.
-||img.piaosugo.com*.jpg
-||adsmis.
-||adserver.
-||sense-*.tapdb.net^
-||pc.min.js*
-||minero-proxy-*now.sh
-||pagead2.
-||guangyaoli.
-||adsense.
-||ading.
-||googleads.
-||umengacs.
-||ads-
-||ad.
-piao.js|
-oHead6205.appendChild( oScript6205);
-||ad-
-||ads.
-||vali-g1.cp31.ott.cibntv.net*.mp4
-||adxapi.
-||adsence.
-||unityads.
-advertisers.js|
-||ap*.jj20.com^
-||yazhouyu.
-||advertise.
-||ap*.pl520.com^
+! 👇This Part Merge from: anti-ad (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
+||da.hornbach.*^
+||appsflyer*.*^
+||brucelead*.com^
+||cloudservice*.kingsoft-office-service.com^
+||adsystem*.*^
+||adsrvmedia*.*^
+||analysis*.*^
+||bj*.9669.cn^
+||ad-*.net^
+||log.*.hunantv.com^
+||admaster*.*^
+||webads.*^
+||umtrack*.com^
+||admarvel*.*^
+||omniture*.*^
+||vente-unique.*^
+||assoc-amazon.*^
+||clientlog*.music.163.com^
+||flightzy.*^
+||omgmta*.*^
+||tuiguang.*^
+||tr.*.espmp-*fr.net^
+@@||profile*.se.360.cn^
+||wafmedia*.*^
+||jshosting.*^
+||gostats.*^
+||adserver.*^
+||web-stat.*^
+||imglnk*.com^
+||adsage*.*^
+||adsensor*.*^
+||24log.*^
+||voluumtrk*.com^
+||usage*.*^
+||2cnjuh34j*.com^
+||ad-*.wikawika.xyz^
+||vs*.gzcu.u3.ucweb.com^
+||duomeng*.*^
+||dwtrack*.*^
+||engage.3m*^
+||adm*.autoimg.cn^
+||xn--xhq9mt12cf5v.*^
+||grjs0*.com^
+||ad-*.com^
+||applovin*.*^
+||hostingcloud.*^
+||vegaoo*.*^
+||ads*-adnow.com^
+||clkservice*.youdao.com^
+||supersonicads*.*^
+||putrr*.com^
+||admob.*^
+||sunnimiq*.cf^
+||count*.pconline.com.cn^
+||log*.molitv.cn^
+||adsmogo*.*^
+||iflyad.*.openstorage.cn^
+||freecontent.*^
+||ssc.southpark*^
+||24smi.*^
+||doubleclick*.xyz^
+||waframedia*.*^
+||adservice*.*^
+||xn--wxtr9fwyxk9c.*^
+||bs*.9669.cn^
+||pingfore*.*^
+||pussl*.com^
+||openx*.*^
+||admicro*.vcmedia.vn^
+||darking*.tk^
+||ad*.molitv.cn^
+||ablen*.tk^
+||dsp*.youdao.com^
+||sda*.xyz^
+||domob*.*^
+||guanggao*.*^
+||aeros*.tk^
+||f-log*.grammarly.io^
+||oiwjcsh*.top^
+||socdm*.*^
+||adsh*.*^
+||vmm-satellite*.com^
+||partnerad*.*^
+@@||tongji.*kuwo.cn^
+||minero-proxy-*.sh^
+||qchannel*.cn^
+||gg*.51cto.com^
+||analyzer*.fc2.com^
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
 ||forad1.weimeicun.com^
 ||ijuns.com^
@@ -10165,6 +10031,7 @@ advertisers.js|
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
+||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -10183,6 +10050,7 @@ advertisers.js|
 ||pxene.com^
 ||zlbkj.com^
 ||shenxiangkeji.com^
+@@||ad.azure.com^
 ||fc-feed.cdn.bcebos.com^
 ||tlvmedia.com^
 ||gayeah.cn^
@@ -10249,7 +10117,6 @@ advertisers.js|
 ||show.qx15.com^
 ||spotscenered.info^
 ||pghwwjd.com^
-||monitor-uu.play.aiseet.atianqi.com^
 ||bd.haomagujia.com^
 ||p.buluo.qq.com^
 ||52m.xde6.net^
@@ -10295,7 +10162,6 @@ advertisers.js|
 ||ta.yangkeduo.com^
 ||gma1.com^
 ||l.fancyapi.com^
-||unionsug.baidu.com^
 ||yanpoly.com^
 ||adserviceretry.kugou.com^
 ||gamediad.com^
@@ -10333,7 +10199,6 @@ advertisers.js|
 ||gythsg.com^
 ||uploadlog.p2p.qq.com^
 ||leads.autohome.com.cn^
-||appdriver.cn^
 ||bidvertiser.com^
 ||ug.snssdk.com^
 ||jm1.xiao89.com^
@@ -10369,7 +10234,6 @@ advertisers.js|
 ||adashx.m.taobao.com^
 ||zdpeanut.com^
 ||jl368.cn^
-||adultfriendfinder.com^
 ||lieying.cn^
 ||sdk.conf.igexin.com^
 ||bd1.wowoqq.com^
@@ -10404,13 +10268,13 @@ advertisers.js|
 ||leadboltads.net^
 ||line1-log.biligame.net^
 ||hosting24.com^
-||baidu-taobao-av.com^
 ||qq4g.cn^
 ||hot-mob.com^
 ||t7z.cupid.ptqy.gitv.tv^
 ||lenzmx.com^
 ||jfy-stone.cn^
 ||id6.me^
+||channel.m.163.com^
 ||adashxgc.ut.taobao.com^
 ||yoyue.net^
 ||yh300.vip^
@@ -10632,7 +10496,6 @@ advertisers.js|
 ||mobilelog.kugou.com^
 ||dahexs.net^
 ||aiyouji.xyz^
-||appuu.cn^
 ||cpmchina.co^
 ||f8272.com^
 ||dian5000.com^
@@ -10688,6 +10551,7 @@ advertisers.js|
 ||ggxt.net^
 ||tapjoyads.com^
 ||nicearticle.cc^
+@@||ad-gone.com^
 ||tiaosa.cn^
 ||56fba.cn^
 ||gridsum.com^
@@ -10710,7 +10574,6 @@ advertisers.js|
 ||snow001.com^
 ||lokuai.com^
 ||fumeiti.cc^
-||hpd.baidu.com^
 ||youday.cn^
 ||a.diaoyu.cn^
 ||stuowq.cn^
@@ -10836,6 +10699,7 @@ advertisers.js|
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
 ||wwads.cn^
+||114so.cn^
 ||se967.com^
 ||newrelic.com^
 ||coolguang.com^
@@ -10937,6 +10801,7 @@ advertisers.js|
 ||yijiafangzhi.cn^
 ||xavua.com^
 ||taobeike.com^
+||2020mustang.com^
 ||uuff.com^
 ||ideng.com^
 ||unta.cn^
@@ -11007,6 +10872,7 @@ advertisers.js|
 ||ctripcorp.com^
 ||xhxnkyy.com^
 ||pdjyzx.com^
+||ipservice.163.com^
 ||italy-lottery.com^
 ||msg.umengcloud.com^
 ||hwmwin.com^
@@ -11054,7 +10920,6 @@ advertisers.js|
 ||letao.com^
 ||kaimaohong20.cn^
 ||se.360.cn^
-||sdkconfig.play.aiseet.atianqi.com^
 ||count.ddooo.com^
 ||r.m.duyidu.net^
 ||onetad.com^
@@ -11080,7 +10945,6 @@ advertisers.js|
 ||weixingshexiangji.net^
 ||log.m.sm.cn^
 ||popads.net^
-||paimgcdn-feed.baidu.com^
 ||union178.com^
 ||dongbeisurewin.com^
 ||qutyan8848.com^
@@ -11136,7 +11000,6 @@ advertisers.js|
 ||turn.com^
 ||jingteinv.com^
 ||kstj.baidu.com^
-||asiafriendfinder.com^
 ||pb.sogou.com^
 ||js2.hdzog.com^
 ||bepolite.eu^
@@ -11359,6 +11222,7 @@ wxsnsdy.tc.qq.com^
 ||dmrtb.com^
 ||nnwm.com^
 ||linglong001.com^
+||sdc.10086.cn^
 ||adsclick.qq.com^
 ||yu0123456.com^
 ||x8ad.com^
@@ -11436,7 +11300,6 @@ am26677.com^
 ||web.kuaiwan.com^
 ||danangmo.cn^
 ||w8.com.cn^
-||appget.cn^
 ||zhongwenqing.com^
 ||ruan.cn^
 ||track.sohu.com^
@@ -11451,6 +11314,7 @@ am26677.com^
 ||vs9158.com^
 ||gt1n.com^
 ||xlivrdr.com^
+@@||ad.ext.azure.com^
 ||shdunjiusy.com^
 ||j05ot.online^
 ||config.kuyun.com^
@@ -11476,7 +11340,6 @@ am26677.com^
 ||wfhxssg.com^
 ||dingon.com.cn^
 ||reader.sh.vip.qq.com^
-||livep.l.aiseet.atianqi.com^
 ||agstat.html5.qq.com^
 ||wnbfw.com^
 ||imrworldwide.com^
@@ -11486,7 +11349,6 @@ am26677.com^
 ||tapjoy.cn^
 ||csbew.com^
 ||a.booksir.cn^
-||dxp.baidu.com^
 ||a1.firstgw.com^
 ||swc.weather.com.cn^
 ||lc-cn-n1-shared.com^
@@ -11496,7 +11358,6 @@ am26677.com^
 ||b.smartvideo.youku.com^
 ||googleadsserving.cn^
 ||adaccount.csdn.net^
-||nsclick.baidu.com^
 ||zhannei-dm.csdn.net^
 ||shixiong.xyz^
 ||yuyueyang.cn^
@@ -11597,10 +11458,8 @@ hxsame.hexun.com^
 ||ssjpx.com^
 ||bnet.com^
 ||namedq.com^
-||analysys.cn^
 ||muhnbc.cn^
 ||sdk.open.phone.igexin.com^
-||qapm.baidu.com^
 ||caiyifz.com^
 ||hellogalaxy.cn^
 ||scrippsnetworks.com^
@@ -11657,7 +11516,6 @@ push.qq.com^
 ||b3.jandan.net^
 ||pepsico.com.cn^
 ||log.ergeduoduo.com^
-||adview.cn^
 ||uczzd.net^
 ||adshmmsg.qq.com^
 ||market.m.qq.com^
@@ -11680,6 +11538,7 @@ push.qq.com^
 ||avapp.tv^
 ||haodongkeji.cn^
 ||hlzad.com^
+||e-p4p.163.com^
 ||fengyx.com^
 ||thli43.cn^
 ||congtad.com^
@@ -11777,7 +11636,6 @@ wxsnsdy.video.qq.com^
 ||cb.lomark.cn^
 ||club-img.douyucdn.cn^
 ||cre-dp.sina.cn^
-||aiseet.aa.atianqi.com^
 ||ykad-data.youku.com^
 ||sensors.ibreader.com^
 ||uodoo.com^
@@ -11800,7 +11658,6 @@ wxsnsdy.video.qq.com^
 ||tsis.jpush.cn^
 ||sdd.dzsc.com^
 ||tou100.com^
-||appdriver.com.cn^
 ||dgstatic.jd.com^
 ||rakutenmarketing.com^
 ||adcdn.hpplay.cn^
@@ -11919,7 +11776,6 @@ wxsnsdy.video.qq.com^
 ||dhlh.org^
 ||bdcode1.haodou.com^
 ||jsjs.jbzj.com^
-||appcpa.net^
 ||yyslate.com^
 ||s8x1.com^
 ||lzthjd.cn^
@@ -12090,7 +11946,6 @@ wxsnsdy.video.qq.com^
 ||cwpush.com^
 ||segment.com^
 ||wxapp.lvyadx.cn^
-||au737.com^
 ||ryre.cn^
 ||o2o.api.xiaomi.com^
 ||jiaoben.webkaka.com^
@@ -12157,7 +12012,6 @@ wxsnsdy.video.qq.com^
 ||doowe.cn^
 ||zuciwang.com^
 ||xtgreat.com^
-||push.zhanzhang.baidu.com^
 ||jewelryedu.cn^
 ||game3737.com^
 ||log-api.pangolin-sdk-toutiao.com^
@@ -12175,7 +12029,6 @@ wxsnsdy.video.qq.com^
 ||yiiyoo.net^
 ||hupu-nba.com^
 ||golden1.sogou.com^
-||lives.l.aiseet.atianqi.com^
 ||dgfggy.com^
 ||gzili.com^
 ||jhqku.cn^
@@ -12264,6 +12117,7 @@ wxsnsdy.video.qq.com^
 ||tools.3g.qq.com^
 ||gzzbb.net^
 ||mdt.qq.com^
+||jf.10010.com^
 ||samboc.com^
 ||hmcvs.cn^
 ||boowang.com^
@@ -12279,7 +12133,6 @@ wxsnsdy.video.qq.com^
 ||buysellads.com^
 ||ytunion.com^
 ||news.xcpi.cn^
-||2.arpun.com^
 ||e.kuaishou.com^
 ||ds9e.top^
 ||xjuneuud.cn^
@@ -12287,6 +12140,7 @@ wxsnsdy.video.qq.com^
 ||lee789.com^
 ||youxitui.net^
 ||qjhlc.com^
+||01ws5t.cn^
 ||web-track.go2yd.com^
 ||nl.rcd.iqiyi.com^
 ||wifi.com^
@@ -12306,7 +12160,6 @@ wxsnsdy.video.qq.com^
 ||zmkma.com^
 ||chitika.com^
 iadctest.qwapi.com^
-||adscdn.baidu.com^
 ||bfdtt.com^
 ||qiqipower.com^
 ||ecomgxh.kuwo.cn^
@@ -12436,7 +12289,6 @@ iadctest.qwapi.com^
 ||brandadsstatic.vivo.com.cn^
 ||youku-crm-product.youku.com^
 ||yfi8.com^
-||dp3.play.aiseet.atianqi.com^
 ||d8360.com^
 ||1.tongquee.com^
 ||adsystem.wasu.tv^
@@ -12530,6 +12382,7 @@ iadctest.qwapi.com^
 ||91ad.bestvogue.com^
 ||sofire.baidu.com^
 ||ebjvu.cn^
+||log.mmstat.com^
 ||qdcode.com^
 ||iiad.com^
 ||www.32414.com^
@@ -12580,7 +12433,6 @@ iadctest.qwapi.com^
 ||silkroad.csdn.net^
 ||bjuser.jpush.cn^
 ||taomato.com^
-||appadhoc.com^
 ||bashenghuo.com^
 ||zjbdt.com^
 ||hiorange1.jobui.com^
@@ -12693,6 +12545,145 @@ iadctest.qwapi.com^
 ||stadig.ifeng.com^
 ||conf.hpplay.cn^
 ||bairenad.com^
+! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
+||adx.
+||adx-
+||adsfs.
+||adsdk.
+MRelateFeedAd
+||adsmind.
+||adsfile.
+||bigdata.
+||sell*.etlong.com^
+||smartads.
+||adshare.
+||dm-*.toutiao.com^
+||player.letvcdn.com*.swf|
+||d*.wanzhuang.com^
+||adstats.
+||toujing*.top^
+||popup.*.js*
+||ggg.
+||advert.
+||irs01.
+||advert-
+||allyes.
+||adcolony.
+||advertising.
+||showad*
+||adservice.
+||pagead.
+||djjca.
+||imageadv.
+||m-vali.cp31.ott.cibntv.net*.mp4
+||epochtimes^
+||ads*-normal-hl.zijieapi.com^
+||adapi.
+getAds|
+||adsfileretry.
+||cpro.
+||m7k4.com*.php?
+||adv.
+||adv-
+||appjiagu.
+||img.piaosugo.com*.jpg
+||adsmis.
+||adserver.
+||sense-*.tapdb.net^
+||ping.*.sogou.com^
+||pc.min.js*
+||minero-proxy-*now.sh
+||pagead2.
+||p*-ad-sign.byteimg.com^
+||guangyaoli.
+||adsense.
+||ading.
+||googleads.
+||umengacs.
+||ads-
+||ad.
+piao.js|
+oHead6205.appendChild( oScript6205);
+||ad-
+||ads.
+||vali-g1.cp31.ott.cibntv.net*.mp4
+||adxapi.
+||gg*.miguvideo.com^
+||adsence.
+||unityads.
+advertisers.js|
+||ap*.jj20.com^
+||yazhouyu.
+||advertise.
+||ap*.pl520.com^
+||tracker*.qcloud.com^
+! 👇This Part Merge from: halflife-list (https://github.com/sbwml/halflife-list/blob/master/ad-pc.txt)
+          Code
+              Sign up
+      Enterprise
+      Manage cookies
+                required
+      <button
+          hidden
+      Partners
+        Automate any workflow
+<dialog-helper>
+          Sign in
+                <li>
+      Education
+<html
+  <head>
+              <input
+        Provide feedback
+      Customer Stories
+    data-discussion-hovercards-enabled
+      GitHub Skills
+        Search
+      <span>
+        Fund open source developers
+  <div
+        Manage code changes
+        Saved searches
+              Search syntax tips
+        Product
+    data-commit-hovercards-enabled
+    You can’t perform that action at this time.
+<!DOCTYPE html>
+<react-partial
+                <ul
+<react-app
+  >
+      DevOps
+          Pull requests
+      Teams
+                  "
+        Host and manage packages
+      Do not share my personal information
+      Startups
+          Security
+        Find and fix vulnerabilities
+        GitHub community articles
+        sbwml
+    data-issue-and-pr-hovercards-enabled
+        Solutions
+      <div>
+        Open Source
+      Topics
+          Star
+          Insights
+        Write better code with AI
+      Blog
+      Trending
+      Collections
+        Plan and track work
+        Instant dev environments
+      DevSecOps
+  <cookie-consent-link>
+        Collaborate outside of code
+      Documentation
+          Actions
+      All features
+      Learning Pathways
 ! 👇This Part Merge from: anti-ad (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||bett2you.net^
 ||s.cameratico.com^
@@ -13856,7 +13847,6 @@ iadctest.qwapi.com^
 ||dii2.bitiba.nl^
 ||m.cjjcby.cn^
 ||childlikeform.com^
-||tr.news.cporadio.tv^
 ||app.classiccenter.com^
 ||connectwithus.cetera.com^
 ||d3qgd3yzs41yp.cloudfront.net^
@@ -14206,6 +14196,7 @@ iadctest.qwapi.com^
 ||bensokive.com^
 ||ck123.io^
 ||d3ff60r8himt67.cloudfront.net^
+||qapm.baidu.com^
 ||cdrvrs.com^
 ||pages.cobweb.com^
 ||app.health.bjc.org^
@@ -14323,7 +14314,6 @@ iadctest.qwapi.com^
 ||bqieaijre.xyz^
 ||tr.marketing.comparadordeprestamos.es^
 ||app.bekfood.de^
-||response.cpp.com^
 ||sanalytics.boomerang.com.br^
 ||burstbeacon.com^
 ||cadsuta.net^
@@ -14352,7 +14342,6 @@ iadctest.qwapi.com^
 ||eco.chng5.xyz^
 ||counterlevel.de^
 ||cdn-server.top^
-||cpqgyga.com^
 ||link.bemachine.app^
 ||bccda4ab57.com^
 ||d3rjndf2qggsna.cloudfront.net^
@@ -14715,6 +14704,7 @@ iadctest.qwapi.com^
 ||battelscannach.com^
 ||brothersincash.com^
 ||logsbin.dantri.com.vn^
+||push.zhanzhang.baidu.com^
 ||hello.bpost2.be^
 ||stat.carecredit.com^
 ||cm.baidu.com^
@@ -14816,7 +14806,6 @@ iadctest.qwapi.com^
 ||blockchaintop.nl^
 ||cloudimagesb.com^
 ||co85264.com^
-||cprdmnlo.xyz^
 ||tr.prog.cinemanivel.fr^
 ||celeritascdn.com^
 ||coinworker.com^
@@ -15432,6 +15421,7 @@ iadctest.qwapi.com^
 ||chuctmalo.xyz^
 ||go.blackrock.com^
 ||app.information.cognos.com^
+||unionsug.baidu.com^
 ||stats.bluebillywig.com^
 ||target.comcast.com^
 ||byrledmtscmd.com^
@@ -15796,6 +15786,7 @@ iadctest.qwapi.com^
 ||tr.emailing.canalplus.ch^
 ||ccm19.de^
 ||conduit-banners.com^
+||hpd.baidu.com^
 ||data.inswa.coca-cola.com^
 ||newsletter.banquepopulaire.fr^
 ||bungarovet.com^
@@ -16170,6 +16161,7 @@ iadctest.qwapi.com^
 ||m.bgj113.cn^
 ||bxwmfozavo.com^
 ||info.cafonline.org^
+||paimgcdn-feed.baidu.com^
 ||apps.info.convio.com^
 ||theroot.black.news^
 ||sfpc.changehealthcare.com^
@@ -16644,6 +16636,7 @@ iadctest.qwapi.com^
 ||clickadilla.com^
 ||d200108c6x0w2v.cloudfront.net^
 ||coingive.com^
+||hpd.baidu.cn^
 ||d114isgihvajcp.cloudfront.net^
 ||clicktraceclick.com^
 ||omn.costumesupercenter.com^
@@ -17179,7 +17172,6 @@ iadctest.qwapi.com^
 ||d36u3psykfwy91.cloudfront.net^
 ||cookieq.com^
 ||buckonealodies.com^
-||somni.cpowilton.com^
 ||n.cosbot.cn^
 ||baptrqyesunv.xyz^
 ||chenze1.cn^
@@ -17311,6 +17303,7 @@ iadctest.qwapi.com^
 ||bux1le001.com^
 ||bhlph.com^
 ||d3kblkhdtjv0tf.cloudfront.net^
+||adscdn.baidu.com^
 ||bizo.com^
 ||a8cv.bbt757.com^
 ||d3n6i6eorggdxk.cloudfront.net^
@@ -18716,7 +18709,6 @@ iadctest.qwapi.com^
 ||a8.cocomeister.jp^
 ||compensationpropulsion.com^
 ||refresh-js.bitbucket.io^
-||cppkmmthkpttbb.com^
 ||vvikao.brighton.com^
 ||bursa.conxxx.pro^
 ||link-staging.bestest.io^
@@ -20185,7 +20177,6 @@ iadctest.qwapi.com^
 ||barbarousnerve.com^
 ||data.collishop.be^
 ||dian.brecm.xyz^
-||somni.cpoworkshop.com^
 ||d20tam5f2v19bf.cloudfront.net^
 ||cevocoxuhu.com^
 ||btxdbuaxn.com^
@@ -21498,7 +21489,6 @@ iadctest.qwapi.com^
 ||rx.capsulecares.com^
 ||d1wc0ojltqk24g.cloudfront.net^
 ||combativedetail.com^
-||somni.cporotarytools.com^
 ||bankingconcede.com^
 ||chinaqirun.cn^
 ||sbpb1.chuiyue.com^
@@ -21520,6 +21510,7 @@ iadctest.qwapi.com^
 ||bewsejqcbm.com^
 ||brabywig.live^
 ||snr4.canalplus.com^
+||dxp.baidu.com^
 ||bywntfg.com^
 ||iphonelog.shouji.baofeng.com^
 ||tr.news.casinodrive.fr^
@@ -21529,6 +21520,7 @@ iadctest.qwapi.com^
 ||plauplauplau.app.budg.co^
 ||info.cleanharbors.com^
 ||yourhealth.bassett.org^
+||nsclick.baidu.com^
 ||solutions.coreandmain.com^
 ||best-protection4.me^
 ||checkupforecast.com^
@@ -22242,7 +22234,6 @@ iadctest.qwapi.com^
 ||a8.bandel.jp^
 ||t.beop.io^
 ||click-url.com^
-||somni.cposenco.com^
 ||images.engage.cebglobal.com^
 ||cootersorry.com^
 ||bazao.xyz^
@@ -22695,6 +22686,21 @@ iadctest.qwapi.com^
 ||dsnymrk0k4p3v.cloudfront.net^
 ||secureanalytics.budget.no^
 ||btg360.com.br^
+! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
+@@||app-advertise.zhihuishu.com^
+@@||captcha.su.baidu.com^
+@@||api.ads.tvb.com^
+@@||ad.10010.com^
+@@||ad.abchina.com^
+@@||advert.kf5.com^
+@@||buyad.bi-xenon.cn^
+@@||ad.kazakinfo.com^
+@@||ad.ourgame.com^
+@@||equifaxps.122.2o7.net^
+@@||cbsi.map.fastly.net^
+@@||adcdn.pingan.com^
+! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
+@@||cdn-msp*.18comic.*^
 ! 👇This Part Merge from: anti-ad (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||fatheemt.com^
 ||fkku194.com^
@@ -23675,7 +23681,6 @@ iadctest.qwapi.com^
 ||fakeerupriser.com^
 ||daiteshu.net^
 ||c.dokrmob.com^
-||force24.co.uk^
 ||familyborn.com^
 ||adebis.demae-can.com^
 ||trccvt.dhc.co.jp^
@@ -23831,6 +23836,7 @@ iadctest.qwapi.com^
 ||earnestnessmodifiedsealed.com^
 ||deliriousglowing.com^
 ||www2.discountbrakes.com^
+||tr.news.cporadio.tv^
 ||brcrx.eccocar.com^
 ||brbristoltruckrentals.eccocar.com^
 ||stats.dotplan.io^
@@ -23988,7 +23994,6 @@ iadctest.qwapi.com^
 ||js7129.dlkjgjmy.com^
 ||ebis.ne.jp^
 ||fangcunzhijian1.cn^
-||ebis.forcas.com^
 ||flaskstationsubsequent.com^
 ||email.festiva.com^
 ||response.hospital.fastaff.com^
@@ -24287,6 +24292,7 @@ iadctest.qwapi.com^
 ||adebis.ferret-one.com^
 ||fadechildren.com^
 ||ercoeteasacom.com^
+||response.cpp.com^
 ||dvenkbn.icu^
 ||marketing.cresa.com^
 ||p2.danskebank.se^
@@ -24315,6 +24321,7 @@ iadctest.qwapi.com^
 ||trk.flipfit.com^
 ||sm.delltechnologies.com^
 ||publicidad.daviviendaintl.com^
+||cpqgyga.com^
 ||elearl.com^
 ||cuseccharm.com^
 ||link1.fanfight.com^
@@ -24787,6 +24794,7 @@ iadctest.qwapi.com^
 ||cube-78.com^
 ||fijekone.com^
 ||eiteribesshaints.com^
+||cprdmnlo.xyz^
 ||crayfishshepherd.com^
 ||nukktn.dorko.hu^
 ||dalyai.com^
@@ -26641,7 +26649,6 @@ iadctest.qwapi.com^
 ||dumeia.cn^
 ||stats.ferienwohnung-dombrowski.com^
 ||2829i2p88jx.www.csaladinet.hu^
-||cookies.forbes.pl^
 ||educationalapricot.com^
 ||info.mkt.global.dnp.co.jp^
 ||m.fnlve.cn^
@@ -26867,7 +26874,6 @@ iadctest.qwapi.com^
 ||ctsccrxfaqiq.xyz^
 ||os.evoice.com^
 ||dygtulfe.icu^
-||forbledpukras.top^
 ||fleeredkeg.com^
 ||dmrtx.com^
 ||p2.danskebank.fi^
@@ -27198,6 +27204,7 @@ iadctest.qwapi.com^
 ||dnfs24.com^
 ||dxuuvxweynac.com^
 ||zkc5.fleurancenature.fr^
+||somni.cpowilton.com^
 ||dustedmullion.com^
 ||fighes.com^
 ||lnk.culturetrip.com^
@@ -27482,7 +27489,6 @@ iadctest.qwapi.com^
 ||feuingcrche.com^
 ||europeanurinebanana.com^
 ||facilitypestilent.com^
-||forcelessgooseberry.com^
 ||addl.easetuner.com^
 ||earthquakeend.com^
 ||ebefseuetqjyg.com^
@@ -28767,6 +28773,7 @@ iadctest.qwapi.com^
 ||fcharacaena.com^
 ||etretantothis.com^
 ||brgoazen.eccocar.com^
+||cppkmmthkpttbb.com^
 ||fansang.xyz^
 ||sanl.footlocker.pl^
 ||mobile-event-development.cvent.me^
@@ -29155,7 +29162,6 @@ iadctest.qwapi.com^
 ||cwrxgb.icu^
 ||dignityhourmulticultural.com^
 ||web.newsletterit.esprinet.com^
-||forceddenial.com^
 ||gaccwr.dutramaquinas.com.br^
 ||fixcounter.com^
 ||link.favorited.com^
@@ -29201,7 +29207,6 @@ iadctest.qwapi.com^
 ||entreeselegist.com^
 ||lp.deloittecomunicacao.com.br^
 ||faffwut.com^
-||forbiddenuneasy.com^
 ||epxmxnhjqknsuql.com^
 ||scmetrics.exacttarget.com^
 ||mail.dolce-gusto.pt^
@@ -30231,6 +30236,7 @@ iadctest.qwapi.com^
 ||foggilysyling.top^
 ||foldingclassified.com^
 ||dfanalytics.dealerfire.com^
+||somni.cpoworkshop.com^
 ||cultergoy.com^
 ||tr.mail.enviedebienmanger.fr^
 ||cookiesregister.deltacommerce.com^
@@ -30450,7 +30456,6 @@ iadctest.qwapi.com^
 ||democracyherebyinapptitudeinapptitude.com^
 ||ddapp.cn^
 ||fopxivtbk.com^
-||forcealetell.com^
 ||cryptoad.space^
 ||7mx.eidershop.com^
 ||displayedfoot.com^
@@ -31566,6 +31571,7 @@ iadctest.qwapi.com^
 ||connect.news.evergreenhealth.com^
 ||domnlk.com^
 ||metric.cshgreenwich.org^
+||somni.cporotarytools.com^
 ||dollsaltituderefrigerate.com^
 ||eeftooms.net^
 ||edrubyglo.buzz^
@@ -32061,7 +32067,6 @@ iadctest.qwapi.com^
 ||e8f6c9133b.com^
 ||entertainskin.com^
 ||evemasoil.com^
-||forbidcrenels.com^
 ||vedznh.cumhuriyet.com.tr^
 ||m.d6s2pn5t.cn^
 ||vemxcy.crocs.com.sg^
@@ -32258,6 +32263,7 @@ iadctest.qwapi.com^
 ||ea.devred.com^
 ||detecteddesigningspirited.com^
 ||estara.com^
+||somni.cposenco.com^
 ||deecash.com^
 ||qgmikp.fleurdumal.com^
 ||e.daishuxy.com^
@@ -32697,6 +32703,30 @@ iadctest.qwapi.com^
 ||drivewayperrydrought.com^
 ||dcs.esprit.eu^
 ||aoodoo.feng.com^
+! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
+@@||vodafonelimited.tt.omtrdc.net^
+@@||optout.rlcdn.com^
+conversions.appsflyersdk.com^
+@@||track2.royalmail.com^
+@@||smartpixel.tv
+dlsdk.appsflyersdk.com^
+cdn-settings.appsflyersdk.com^
+@@||yyfweb.postar.cn^
+@@||local.adguard.org^
+@@||redirect.appmetrica.yandex.net^
+dlsdk.appsflyer.com^
+@@||webtrack.dhlglobalmail.com^
+@@||myqqjd.com^
+@@||metrics.torproject.org^
+@@||redirect.appmetrica.yandex.com^
+charlestownwyllie.oaklawnnonantum.com^
+@@||kiplinger.112.2o7.net^
+@@||logging.apache.org^
+@@||manwa.me^
+@@||img.ads.tvb.com^
+@@||wwwimage-tve.cbsstatic.com^
+! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
+directtrack.*.js
 ! 👇This Part Merge from: anti-ad (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||gonews2.com^
 ||infinityads.com^
@@ -33646,6 +33676,7 @@ iadctest.qwapi.com^
 ||hetaruwg.com^
 ||gmyze.com^
 ||galliestorpify.com^
+||force24.co.uk^
 ||o.hmwy.io^
 ||fpdbccngiujp.com^
 ||humdrumhat.com^
@@ -33955,6 +33986,7 @@ iadctest.qwapi.com^
 ||ergrbp.hobidunya.com^
 ||gi-client-tracking.goodgamestudios.com^
 ||app.grabon.in^
+||ebis.forcas.com^
 ||handsenvious.com^
 ||info.hoopla.net^
 ||oyyqan.hejoscar.dk^
@@ -35169,7 +35201,6 @@ iadctest.qwapi.com^
 ||wealth.informabi.com^
 ||handbaggather.com^
 ||wof.hnltcw.com^
-||rooms.itsme.video^
 ||gtcpsvyirosieug.com^
 ||a8cv2.hoken-choice.com^
 ||app.fordidahocenter.com^
@@ -35590,7 +35621,6 @@ iadctest.qwapi.com^
 ||gw100-10.com^
 ||stats.getpickaxe.com^
 ||stats.ibtimes.sg^
-||rooms.itsme.cool^
 ||fxwykuxh.com^
 ||iakjiamqg.com^
 ||insigit.com^
@@ -36662,6 +36692,7 @@ iadctest.qwapi.com^
 ||idahoanpavies.com^
 ||m.gtnde.com^
 ||hxwjmeveeb.com^
+||cookies.forbes.pl^
 ||hyphentriedpiano.com^
 ||impostorconfused.com^
 ||sonar6-dus1-1.xx.fbcdn.net.iberostar.com^
@@ -36886,6 +36917,7 @@ iadctest.qwapi.com^
 ||spmaeu.gumtree.com.au^
 ||gammachug.com^
 ||cxy88.friok.com^
+||forbledpukras.top^
 ||e.infvb.com^
 ||a8ht.hipp.fr^
 ||ssc.hl.co.uk^
@@ -37464,6 +37496,7 @@ iadctest.qwapi.com^
 ||research.gartner.com^
 ||hutremindbond.com^
 ||hidatsabedim.space^
+||forcelessgooseberry.com^
 ||hhvivsbiip.com^
 ||fsd2.digital^
 ||ebis.funai-ma.com^
@@ -37596,7 +37629,6 @@ iadctest.qwapi.com^
 ||goatpoxbutters.top^
 ||sonar6-tpe1-1.xx.fbcdn.net.iberostar.com^
 ||ipomeamiching.com^
-||itsup.com^
 ||pgg.huabojnxdd.com^
 ||ingameads.gameloft.com^
 ||m.future888.net^
@@ -39193,6 +39225,7 @@ iadctest.qwapi.com^
 ||holebnnjuom.xyz^
 ||instancesflushedslander.com^
 ||fy6x8o.cn^
+||forceddenial.com^
 ||gotchaih.com^
 ||gullible-lawyer.pro^
 ||stats.g.doubleclick.net.iberostar.com^
@@ -39220,7 +39253,6 @@ iadctest.qwapi.com^
 ||he2d.com^
 ||stat-ssl.hitosara.com^
 ||gzzkjdam.cn^
-||stats.itsol.it^
 ||afpd.groundwidgets.com^
 ||engage.ipcginsurance.com^
 ||alerts.ironmountain.com^
@@ -39242,6 +39274,7 @@ iadctest.qwapi.com^
 ||e.hf355.cn^
 ||truehits3.gits.net.th^
 ||welcome.item24.us^
+||forbiddenuneasy.com^
 ||gft2.de^
 ||iqmetrics.handelsblatt.com^
 ||gsjln04hd.com^
@@ -39883,7 +39916,6 @@ iadctest.qwapi.com^
 ||wlxhzn.godfreys.com.au^
 ||connect.satl.hcahealthcare.com^
 ||impulsehands.com^
-||itswabluon.com^
 ||iogous.com^
 ||fznxvf.xyz^
 ||fuckedbyme.com^
@@ -40426,6 +40458,7 @@ iadctest.qwapi.com^
 ||bdjs.guangyuanol.cn^
 ||guessstartlethrive.com^
 ||hillbackserve.com^
+||forcealetell.com^
 ||go-mpulse.net^
 ||imith.com^
 ||forseisemelo.top^
@@ -40699,7 +40732,6 @@ iadctest.qwapi.com^
 ||gwtylvvexe.xyz^
 ||data.trn.qb.intuit.com^
 ||di.ifolor.ie^
-||itsvfputpvsqnb.com^
 ||sxjfhh.guampdn.com^
 ||ws-br-cdn.kwai.net.iberostar.com^
 ||fortpavilioncamomile.com^
@@ -41109,7 +41141,6 @@ iadctest.qwapi.com^
 ||forter.com^
 ||guddledarride.com^
 ||om.hotels.cn^
-||ittaxklbddvfcw.xyz^
 ||fwpixel.com^
 ||grillcheekunfinished.com^
 ||inevitablestanddisplayed.com^
@@ -41185,7 +41216,6 @@ iadctest.qwapi.com^
 ||roedwy.imidapeptide.com^
 ||infopagleey.com^
 ||mkztpk.invictastores.com^
-||itsmore.cn^
 ||hyelgehg.xyz^
 ||bfjpbw.herrenausstatter.de^
 ||httpp.gdn^
@@ -41912,7 +41942,6 @@ iadctest.qwapi.com^
 ||gpiyzwt.com^
 ||hypnotizetransfervideotape.com^
 ||handwritingdigestion.com^
-||itspsmup.com^
 ||graukaigh.com^
 ||holdonstranger.com^
 ||gecfnc.foresight.jp^
@@ -42054,6 +42083,7 @@ iadctest.qwapi.com^
 ||goutee.top^
 ||grtexch.com^
 ||hkiztcykfb.com^
+||forbidcrenels.com^
 ||products.gobankingrates.com^
 ||honoursdashed.com^
 ||grifictuberal.site^
@@ -42817,7 +42847,6 @@ iadctest.qwapi.com^
 ||fqxnlh.kgcshop.co.kr^
 ||laksjd4.com^
 ||materialisticmark.com^
-||referral.moonglabs.com^
 ||apps.jeffgalloway.com^
 ||journeys.journeyed.com^
 ||tr.news.lalettredelexpansion.com^
@@ -42910,7 +42939,6 @@ iadctest.qwapi.com^
 ||magiq.com^
 ||misgala.com^
 ||luminate.com^
-||moonads.net^
 ||ogb2.leanatureboutique.com^
 ||tr.digitaldigest.lvmh.com^
 ||mengte.top^
@@ -44124,7 +44152,6 @@ iadctest.qwapi.com^
 ||kyikdee.cn^
 ||monsido.com^
 ||krivo.buzz^
-||mooncklick.com^
 ||ssp.kssws.ks-cdn.com^
 ||laughdrum.com^
 ||leopardenhance.com^
@@ -44949,7 +44976,6 @@ iadctest.qwapi.com^
 ||img.jgchq.com^
 ||e.jganv.com^
 ||sanalytics.smart.mercedes-benz.com^
-||ldhteg.mooihorloge.nl^
 ||heatmaps.lcisoft.it^
 ||ma.meritmind.se^
 ||gpzhcc.lapeyre.fr^
@@ -45140,6 +45166,7 @@ iadctest.qwapi.com^
 ||kxwhiogrswx.com^
 ||cherry.le.com^
 ||jewhouca.net^
+||rooms.itsme.video^
 ||moksoxos.com^
 ||l5games2fan.com^
 ||images.join.masaisrael.org^
@@ -45563,6 +45590,7 @@ iadctest.qwapi.com^
 ||komoona.com^
 ||lifeporn.net^
 ||kookarek.com^
+||rooms.itsme.cool^
 ||count.knowsky.com^
 ||mdwmrmfsimtabb.com^
 ||std.o.medicinenet.com^
@@ -47439,7 +47467,6 @@ iadctest.qwapi.com^
 ||mnvxdkd.xyz^
 ||mbekgac.xyz^
 ||collect.verify.lnearn.com^
-||pbvnwd.moongori.com^
 ||lyjuylutjnu.com^
 ||feedback.lifeguardarena.com^
 ||lhhnykntxgb.com^
@@ -47601,7 +47628,7 @@ iadctest.qwapi.com^
 ||float.kankan.com^
 ||pqlmae.lamaisonduchocolat.co.jp^
 ||lybxft.xyz^
-||applink2.moolban.com^
+||itsup.com^
 ||email-em.joneslanglasalle.com.cn^
 ||app-dat.kingofthecurve.org^
 ||literalbackseatabroad.com^
@@ -48483,7 +48510,6 @@ iadctest.qwapi.com^
 ||events.mcgladrey.com^
 ||iwmqbimuaibsvr.com^
 ||micodigo.com^
-||m.moomoo.com^
 ||jdoqocy.com^
 ||medusasglance.com^
 ||madratesforall.com^
@@ -49174,6 +49200,7 @@ iadctest.qwapi.com^
 ||mdws.memberone.ca^
 ||email-ap.jll.com.sg^
 ||a8.lantelno.jp^
+||stats.itsol.it^
 ||llnxdx.xyz^
 ||partner.miso.kr^
 ||connect.mikrocentrum.nl^
@@ -49350,7 +49377,6 @@ iadctest.qwapi.com^
 ||listingcafe.com^
 ||kneeansweras.com^
 ||kudifish.com^
-||mookie1.com^
 ||klbvqqqj.com^
 ||ywrcqa.ksdk.com^
 ||lqammdjflcecau.com^
@@ -49893,6 +49919,7 @@ iadctest.qwapi.com^
 ||data.lifesize.com^
 ||manconsider.com^
 ||log.moji.com^
+||itswabluon.com^
 ||linkeinvitable.site^
 ||m.jlkja.com^
 ||kwhhdwyuvi.com^
@@ -50166,7 +50193,6 @@ iadctest.qwapi.com^
 ||landmarkfootnotary.com^
 ||ktwwzqdx.xyz^
 ||lokqfjbpryua.com^
-||applink.moolban.com^
 ||laughablelizards.com^
 ||info.marugroup.net^
 ||kdowqlpt.info^
@@ -50733,6 +50759,7 @@ iadctest.qwapi.com^
 ||email-cm.jll.fi^
 ||leghis.com^
 ||klz28.com^
+||itsvfputpvsqnb.com^
 ||kxnggkh2nj.com^
 ||malastasho.pro^
 ||franchise.locktonaffinity.net^
@@ -51135,6 +51162,7 @@ iadctest.qwapi.com^
 ||lnk8j7.com^
 ||laserstat.com^
 ||lootynews.com^
+||ittaxklbddvfcw.xyz^
 ||jugerfowells.com^
 ||link.onsight.librestream.com^
 ||lr-ingest.com^
@@ -51207,6 +51235,7 @@ iadctest.qwapi.com^
 ||marketing.moodypublishers.com^
 ||monstrous-boyfriend.pro^
 ||jjpgbisdg.xyz^
+||itsmore.cn^
 ||kabarnaira.com^
 ||dialogue.mazda.it^
 ||lrah0.top^
@@ -51910,6 +51939,7 @@ iadctest.qwapi.com^
 ||mainad-codpp.com^
 ||abpwqf.lolaflora.com.mx^
 ||a8cv.kikubari-bento.com^
+||itspsmup.com^
 ||a8cv.k-ikiiki.jp^
 ||j1p6w.xyz^
 ||lempeehu.xyz^
@@ -52701,21 +52731,6 @@ iadctest.qwapi.com^
 ||tr.news.labelleadresse.com^
 ||lkme.cc^
 ||mmfudtmtjx.com^
-! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-@@||cdn-msp*.18comic.*^
-! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-@@||app-advertise.zhihuishu.com^
-@@||captcha.su.baidu.com^
-@@||api.ads.tvb.com^
-@@||ad.10010.com^
-@@||ad.abchina.com^
-@@||advert.kf5.com^
-@@||buyad.bi-xenon.cn^
-@@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
-@@||equifaxps.122.2o7.net^
-@@||cbsi.map.fastly.net^
-@@||adcdn.pingan.com^
 ! 👇This Part Merge from: anti-ad (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||plsrcmp.com^
 ||info.mwhccareers.com^
@@ -52830,6 +52845,7 @@ iadctest.qwapi.com^
 ||pretty-size.pro^
 ||onasider.top^
 ||plgeauctecc.com^
+||referral.moonglabs.com^
 ||sw88.nationalgeographic.de^
 ||tr.politicolive.eu^
 ||phkwimm.com^
@@ -52903,6 +52919,7 @@ iadctest.qwapi.com^
 ||m.nsjpu.com^
 ||processplantation.com^
 ||au.mywd.com^
+||moonads.net^
 ||pingomatic.com^
 ||stats.profitablesignpricing.com^
 ||email.mymandg.co.uk^
@@ -53357,7 +53374,6 @@ iadctest.qwapi.com^
 ||link.phaze.io^
 ||moshimo.com^
 ||pertholin.com^
-||prtrackings.com^
 ||offergate-apps-pubrel.com^
 ||piuyt.com^
 ||m.msujd.cn^
@@ -54156,6 +54172,7 @@ iadctest.qwapi.com^
 ||oczqhythihhu.com^
 ||planyourbackup.co^
 ||peskyresistamaze.com^
+||mooncklick.com^
 ||paqcpeotbx.com^
 ||nauwheer.net^
 ||negligible-pension.pro^
@@ -54953,7 +54970,6 @@ iadctest.qwapi.com^
 ||badwolf.open-election-compass.com^
 ||postquare.com^
 ||ablink.subscribers.motortrend.com^
-||prtracker.com^
 ||h353.ncadvertiser.com^
 ||rzdcyv.oreca-store.com^
 ||pcejuyhjucmkiny.ru^
@@ -55004,6 +55020,7 @@ iadctest.qwapi.com^
 ||noojoomo.com^
 ||qr.printko.ro^
 ||mrykkulwenw.com^
+||ldhteg.mooihorloge.nl^
 ||mwmxyurgupy.com^
 ||ordermc.com^
 ||othdgemanow.xyz^
@@ -55120,7 +55137,6 @@ iadctest.qwapi.com^
 ||padsreds.com^
 ||ooxookrekaun.com^
 ||jxsmzz.mytrauringstore.de^
-||images.donotreply.prudential.com^
 ||newsmaxfeednetwork.com^
 ||9kvnwwkj.pandasuite.io^
 ||popbounty.com^
@@ -56768,7 +56784,6 @@ iadctest.qwapi.com^
 ||mvilivestats.com^
 ||data.ejp.nespresso.com^
 ||proposeado.com^
-||pruare.com^
 ||nudgercoptine.life^
 ||marketing.optionmetrics.com^
 ||ncraxcvibg.com^
@@ -57425,6 +57440,7 @@ iadctest.qwapi.com^
 ||noblock.pro^
 ||phultids.com^
 ||peepacquisitionavalanche.com^
+||pbvnwd.moongori.com^
 ||payoffdisastrous.com^
 ||ngujaqm.com^
 ||ordisposableado.com^
@@ -57606,6 +57622,7 @@ iadctest.qwapi.com^
 ||ouftukoo.net^
 ||ollsukztoo.com^
 ||pacoaniy.net^
+||applink2.moolban.com^
 ||bmzuyj.nifty.com^
 ||oeuvresvexable.com^
 ||nzrovf.xyz^
@@ -57666,7 +57683,6 @@ iadctest.qwapi.com^
 ||q.nasdaq.com^
 ||nmcsqihltjdnheq.com^
 ||onclickmax.com^
-||pruderyrotche.com^
 ||apps.software.netsimplicity.com^
 ||t.popsugar.com^
 ||onetouch6.com^
@@ -58482,6 +58498,7 @@ iadctest.qwapi.com^
 ||response.playpower.com^
 ||nearvictorydame.com^
 ||vrasto.openapp.link^
+||m.moomoo.com^
 ||nyc14ny.com^
 ||piclick.cn^
 ||pc180101.com^
@@ -59315,6 +59332,7 @@ iadctest.qwapi.com^
 ||pblinq.com^
 ||adpromo.peppynet.com^
 ||nxdcyhmwxlqc.com^
+||mookie1.com^
 ||pixelhere.com^
 ||notebookbesiege.com^
 ||ohoyao.com^
@@ -59968,7 +59986,6 @@ iadctest.qwapi.com^
 ||a8.nengahonpo.com^
 ||onefeed.co.uk^
 ||porngray.com^
-||prudential.distribution.team.prudential.co.uk^
 ||nigure.com^
 ||data.grandpalladium.palladiumhotelgroup.com^
 ||communications.prodways.com^
@@ -60073,7 +60090,6 @@ iadctest.qwapi.com^
 ||occasionallyregionsadverb.com^
 ||tr.news.prosfora-mou.gr^
 ||neads.delivery^
-||securedigital.prudential.co.uk^
 ||cc.pkesports.cn^
 ||preferablyducks.com^
 ||pitypericu.com^
@@ -60102,6 +60118,7 @@ iadctest.qwapi.com^
 ||webd.home.news.cn^
 ||native.ai^
 ||oweltysegnos.website^
+||applink.moolban.com^
 ||nsstatic.net^
 ||kdpic.pchome.com.tw^
 ||cgctsw.mytour.vn^
@@ -61338,7 +61355,6 @@ iadctest.qwapi.com^
 ||info.patientwise.com^
 ||pcvlpotybnd.com^
 ||nuseek.com^
-||prudah.com^
 ||ndthensome.com^
 ||news-bizowa.com^
 ||mrmlxqck.com^
@@ -62086,7 +62102,6 @@ iadctest.qwapi.com^
 ||go.oroinc.com^
 ||orgyqxtboakh.com^
 ||stats.p42.ai^
-||solutions.prudential.com^
 ||ovplnxsq.com^
 ||223f.pandasuite.io^
 ||okqdjbywcnqov.com^
@@ -62718,30 +62733,6 @@ iadctest.qwapi.com^
 ||observedbrainpowerweb.com^
 ||nwejs.myzcoffice.com^
 ||musicalbilateral.com^
-! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-directtrack.*.js
-! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-@@||vodafonelimited.tt.omtrdc.net^
-@@||optout.rlcdn.com^
-conversions.appsflyersdk.com^
-@@||track2.royalmail.com^
-@@||smartpixel.tv
-dlsdk.appsflyersdk.com^
-cdn-settings.appsflyersdk.com^
-@@||yyfweb.postar.cn^
-@@||local.adguard.org^
-@@||redirect.appmetrica.yandex.net^
-dlsdk.appsflyer.com^
-@@||webtrack.dhlglobalmail.com^
-@@||myqqjd.com^
-@@||metrics.torproject.org^
-@@||redirect.appmetrica.yandex.com^
-charlestownwyllie.oaklawnnonantum.com^
-@@||kiplinger.112.2o7.net^
-@@||logging.apache.org^
-@@||manwa.me^
-@@||img.ads.tvb.com^
-@@||wwwimage-tve.cbsstatic.com^
 ! 👇This Part Merge from: anti-ad (https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 ||p004.raffi-hair.com^
 ||routeit.one^
@@ -63204,7 +63195,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pyrincelewasgild.info^
 ||revenueclamp.com^
 ||sismoycheii.cc^
-||zgumwv.stepstone.de^
 ||scientistgrowl.com^
 ||ringplant.com^
 ||squareforensicbones.com^
@@ -63435,6 +63425,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ssmr2.so-net.ne.jp^
 ||rosteldicycle.cam^
 ||puzzle.spiriteq.com^
+||prtrackings.com^
 ||qifxwiruhrr.com^
 ||content.rightsourcemarketing.com^
 ||snowads.net^
@@ -65038,6 +65029,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pushlat.com^
 ||secondlyundone.com^
 ||sootconform.com^
+||prtracker.com^
 ||spannercopyright.com^
 ||sruk.srglobal.com^
 ||seksoars.xyz^
@@ -65210,6 +65202,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||shutesaroph.com^
 ||sexmotors.com^
 ||dc.stenaline.co.uk^
+||images.donotreply.prudential.com^
 ||segmetrics.io^
 ||razzlebuyer.com^
 ||marketing.setaram.com^
@@ -65567,7 +65560,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||e.rjiau.com^
 ||links.sliceit.com^
 ||ptooshos.net^
-||data.stepstone.de^
 ||hcjpbc.radaronline.com^
 ||simpledkrivu.com^
 ||marketing.schneiderdowns.com^
@@ -65687,7 +65679,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||contact.regus.com^
 ||info.siege-corp.com^
 ||s2sterra.com^
-||tags.stepstone.com^
 ||soawousa.xyz^
 ||qllxvh.shopstyle.com^
 ||rguxbwbj.xyz^
@@ -65860,7 +65851,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||reallyindependencehated.com^
 ||pubdirecte.com^
 ||rgpqgasbmqere.com^
-||collect.stepstone.co.uk^
 ||st.sawlive.tv^
 ||somni.rkt.zone^
 ||reedsinterfering.com^
@@ -66125,7 +66115,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rt004.top^
 ||app.quotesalarm.com^
 ||softspace.mobi^
-||ssa.stepstone.com^
 ||adcontent.saymedia.com^
 ||marketing.redstonecontentsolutions.com^
 ||qajwizsifaj.com^
@@ -66806,6 +66795,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||repealamintor.com^
 ||sdfyiu.com^
 ||sickoaji.com^
+||pruare.com^
 ||sarsaretint.com^
 ||qqwlfm.cn^
 ||startpagea.com^
@@ -66961,7 +66951,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smallstrengthen.com^
 ||get.sage.com^
 ||spongesalt.com^
-||data.stepstone.fr^
 ||sstats.runnersneed.com^
 ||secretbehindporn.com^
 ||shrimpexclusive.com^
@@ -67747,6 +67736,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pushomir.com^
 ||ricted.com^
 ||skyscraperreport.com^
+||pruderyrotche.com^
 ||tr.qualitevehicule.fr^
 ||share.quin.cl^
 ||rznscya.cn^
@@ -69124,7 +69114,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mqqad.html5.qq.com^
 ||saffronrefuge.com^
 ||go-uat.qantaswellbeing.com^
-||response.stepstone.com^
 ||qomate.xyz^
 ||sports-live-streams.club^
 ||pages.mail.puntoscolombia.com^
@@ -70064,6 +70053,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ptechait.com^
 ||pupilexpressionscent.com^
 ||sociallypublish.com^
+||prudential.distribution.team.prudential.co.uk^
 ||ptulsauts.com^
 ||ev.stellarlabs.ai^
 ||pushkav.com^
@@ -70182,6 +70172,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sobesed.com^
 ||refraintupaiid.com^
 ||ptapjmp.com^
+||securedigital.prudential.co.uk^
 ||a8cv.secure.sakura.ad.jp^
 ||shouthisoult.com^
 ||stats.radio-canada.ca^
@@ -71035,7 +71026,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||top.h.qhimg.com^
 ||sinkboxphantic.com^
 ||quickieboilingplayground.com^
-||data-ssl.stepstone.de^
 ||rapidzebra.io^
 ||readserver.net^
 ||productionprinting.ricoh.co.uk^
@@ -71388,6 +71378,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qoytmrsfvu.com^
 ||stats.psychotherapieravensburg.de^
 ||cre.dp.sina.cn^
+||prudah.com^
 ||sdklcnskvbks.com^
 ||a8clk.skyoffice.info^
 ||your.xserver.ptvgroup.com^
@@ -72131,6 +72122,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dmc.romotur.com^
 ||sitethree.com^
 ||sapdealtsalary.com^
+||solutions.prudential.com^
 ||rwefsw55.com^
 ||soothingglade.com^
 ||stealcalmgenus.com^
@@ -72441,7 +72433,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||retrievemint.com^
 ||revstripe.com^
 ||reciteimplacablepotato.com^
-||data-ssl.stepstone.fr^
 ||srumifuroqkuoi.com^
 ||ruuwkftrtegqj.com^
 ||ee.s47e8.cn^
@@ -73159,6 +73150,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.sushibyte.io^
 ||v96-surf.com^
 ||a8.strapya.com^
+||zgumwv.stepstone.de^
 ||v34s6r.com^
 ||wbtrkk.teufelaudio.co.uk^
 ||vanhonker.com^
@@ -73947,7 +73939,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||myevents.thalesgroup.com^
 ||ughhimtoy.com^
 ||voiceads.com^
-||waveelectbarn.com^
 ||urstats.de^
 ||marketing.visitgreaterpalmsprings.com^
 ||thosecandy.com^
@@ -75278,7 +75269,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tfations.live^
 ||b.todaytix.com^
 ||swankysquare.com^
-||wavermerchandiseweird.com^
 ||stretchsquirrel.com^
 ||sanme2.taisantech.com^
 ||transformationdecline.com^
@@ -75544,6 +75534,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||superioramassoutbreak.com^
 ||app.theachieveproject.com^
 ||go.unverbluemt.de^
+||data.stepstone.de^
 ||tominwigan.top^
 ||cdn.taboola.com.cn^
 ||stinglackingrent.com^
@@ -75647,6 +75638,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trail.thomsonreuters.co.kr^
 ||streetabackvegetable.com^
 ||turifb.xyz^
+||tags.stepstone.com^
 ||sstats.truistsecurities.com^
 ||tmtrck.com^
 ||wakenssponged.com^
@@ -75843,6 +75835,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||toninjaska.com^
 ||go.vsee.me^
 ||viamariller.com^
+||collect.stepstone.co.uk^
 ||adat.travelo.hu^
 ||vwinagptucpa.com^
 ||text6film.com^
@@ -76091,6 +76084,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||waudit.cz^
 ||m.vmiua.com^
 ||analytic.underarmour.com^
+||ssa.stepstone.com^
 ||sunflowerinformed.com^
 ||uuoizbtl.xyz^
 ||1.v-x.com.cn^
@@ -76969,13 +76963,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||a8clk.waq-online.com^
 ||velti.com^
 ||inpney.warehouse-one.de^
+||data.stepstone.fr^
 ||tunnelbuilder.top^
 ||ykmsxu.vitalabo.ch^
 ||upbuoyearfuls.com^
 ||tellysetback.com^
 ||tapingfoulgos.com^
 ||tmnbocewmddu.com^
-||hlqpie.waves.com^
 ||link.hello.unum.la^
 ||violationphysics.com^
 ||thirdreasoncomplex.com^
@@ -78687,7 +78681,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stgcdn.com^
 ||ttgmjfgldgv9ed10.com^
 ||crosspromo.voodoo.io^
-||play.wavelength.zone^
 ||tengyuncloud.cn^
 ||sylvatealonely.com^
 ||questions.theanswerco.com^
@@ -79053,7 +79046,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||virginyoungestrust.com^
 ||link.stockviva.com^
 ||wbtrkk.teufelaudio.pl^
-||martech.wavenet.com.tw^
 ||tk.tikamoon.es^
 ||vxelkrhl.info^
 ||surfingbird.ru^
@@ -79123,6 +79115,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tendersugar.com^
 ||tredman.com^
 ||marketing.vetstreet.com^
+||response.stepstone.com^
 ||elijah.tantawy.app^
 ||803.tianya.cn^
 ||surfmdia.com^
@@ -79227,7 +79220,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||app.swiftgift.it^
 ||syzwiooheckxb.com^
 ||xyzznt.uterque.com^
-||waveclks.com^
 ||waioowcadhw.xyz^
 ||vane3alga.com^
 ||spark.thelyst.com^
@@ -79727,7 +79719,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||share.tornado.com^
 ||usa.cc^
 ||stooliroori.com^
-||ablink.comms.waveapps.com^
 ||thuant.com^
 ||go.usecaya.com^
 ||tipslyrev.com^
@@ -81020,6 +81011,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trpool.org^
 ||visitstats.com^
 ||urogramredfins.com^
+||data-ssl.stepstone.de^
 ||hcjpbc.usmagazine.com^
 ||toumnahrafale.com^
 ||email.everyonesocial.unity.com^
@@ -81029,7 +81021,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||watchexcellentpics.online^
 ||szsbiw.xyz^
 ||tessratans.com^
-||bl.wavecdn.de^
 ||unnamesline.com^
 ||t-s.valcyte.com^
 ||visibilitymondaydisappeared.com^
@@ -81568,7 +81559,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||marketing.trustonefinancial.org^
 ||traceworks.com^
 ||i.play.vividpicks.com^
-||up-cookiemon.wavecdn.net^
 ||marketing.translations.com^
 ||theactivetag.com^
 ||superserverwarrior.com^
@@ -82424,6 +82414,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||upgrownloathly.space^
 ||info.trapptechnology.com^
 ||t.tzcccm.com^
+||data-ssl.stepstone.fr^
 ||vuvochgw.xyz^
 ||nsmetrics.themercury.com.au^
 ||tkickhhylnvm.com^
@@ -83802,6 +83793,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zipstat.dk^
 ||yieldsoftware.com^
 ||ymwdeaiut.com^
+||play.wavelength.zone^
 ||impservice.dictvista.youdao.com^
 ||xdhqtgpkywjl.com^
 ||zjpwrpo.com^
@@ -84136,6 +84128,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bn3sch020010650.wns.windows.com^
 ||xtremeserve.xyz^
 ||ping.weiduofan.com^
+||waveelectbarn.com^
 ||m.yqbyiw86.cn^
 ||e.yoiur.com^
 ||mdws.wldcu.com^
@@ -84184,6 +84177,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wcfbc.net^
 ||xtvhkbqmhqu.xyz^
 ||xpkftctvei.com^
+||martech.wavenet.com.tw^
 ||wvfhosisdsl.xyz^
 ||zopeynxv.top^
 ||zhaner.xyz^
@@ -84392,6 +84386,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||app.chat.xiaomi.net^
 ||dii2.zooplus.se^
 ||hk2wns1b.wns.windows.com^
+||waveclks.com^
 ||a8.xn--google-873exa8m6161dbbyb.net^
 ||ytbzqtrog.com^
 ||wornie.com^
@@ -84976,6 +84971,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ziyouxiaoyuan.cn^
 ||ytcxflak.xyz^
 ||rpiher.web-camp.io^
+||ablink.comms.waveapps.com^
 ||wearydisturbing.com^
 ||zebrinanoteman.top^
 ||wukbgater.buzz^
@@ -85628,6 +85624,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||webleads-tracker.com^
 ||ytjzqde.xyz^
 ||zppfjh.xyz^
+||wavermerchandiseweird.com^
 ||zxr9gpxf7j.com^
 ||zukxd6fkxqn.com^
 ||e.wdeie.com^
@@ -86507,6 +86504,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tr.newsletters.youmeetings.com^
 ||zndaowjdnf.stream^
 ||wyq3rum.icu^
+||bl.wavecdn.de^
 ||xdmnlxtu.xyz^
 ||xuninrfwruoyqb.xyz^
 ||wp-monero-miner.de^
@@ -87127,6 +87125,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||winterolivia.com^
 ||hi.xiunm.cn^
 ||adebis.wii-clinic.jp^
+||up-cookiemon.wavecdn.net^
 ||wet-slice.com^
 ||zmctrack.net^
 ||wqnwdjjc.xyz^
@@ -87572,6 +87571,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||apppush-sh5.xiaohongshu.com^
 ||axp.wgnradio.com^
 ||pvc.zol.com.cn^
+||hlqpie.waves.com^
 ||xrcembm.cn^
 ||img.x959.xyz^
 ||webkooo.com^
@@ -88519,15 +88519,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||om.zdnet.com.au^
 ||adss.yahoo.com^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
 inapps.appsflyersdk.com^
 gcdsdk.appsflyersdk.com^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-||163487*.qmgmw.com^
-|piwik.
-||121.204.246.*.gif
-outlook.live.com._6tqjFb_HmyQup_NPe6dhC
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
 ||10.32.17.251cbsdigitalmedia.hb.tt.omtrdc.net^
 ||08650272986502729.digitalpublishing.tt.omtrdc.net^
@@ -89534,34 +89529,10 @@ ubmcmm.baidustatic.com
 ||10.32.17.182adobecorp.hb.tt.omtrdc.net^
 ||24hourfitness.hb.tt.omtrdc.net^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-||ana*.inews24.com^
-||a*.chajiaotong.com^
-||adservice.google.
-||a*.smlog.co.kr^
-||ac*.786ip.com^
-||analytics-*-nfl.yinzcam.com^
-||analytics-api.dvdfab.
-||analytics*.carambo.la^
-||api*.amplitude.com^
-||app-analytics-*.snapchat.com^
-||ad*.on.cc^
-||analytics.ticketmaster.
-||ac*.pingguolv.com^
-||analytics-rollout-*.amazonaws.com^
-||api-*.hismarttv.com^
-||appanalysis*.banggood.com^
-||analytics.streamfab.
-||adi*.cnool.net^
-||adcounter*.uptolike.ru^
-||ad*.ettoday.net^
-||ads*-normal*.zijieapi.com^
-||ads-dmp-collect.*.karrotmarket.com^
-||ac*.faxingchina.com^
-||aff*.kolektiva.net^
-||analytics*.prezly.com^
-||acookie.*.gif?
-||analytics*.clickdimensions.com^
-||analytics.*.sky.com^
+||163487*.qmgmw.com^
+|piwik.
+||121.204.246.*.gif
+outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
 ||a45873.actonservice.com^
 ||analytics.dashboard.fingerprint.com^
@@ -97417,56 +97388,34 @@ ubmcmm.baidustatic.com
 ||acs-cd.cp.tt.omtrdc.net^
 ||accelerantinnovations.actonservice.com^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-||cnt.winporn.
-||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
-||cs*.mp3bars.com^
-||clog*.yuanfudao.com^
-||collector.hamsterix.
-||bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net^
-||dn*.ixinwei.com^
-||bjkedv*.xyz^
-||device-metrics-*.amazon.com^
-||datacollect*.abtasty.com^
-||cnt.proporn.
-||cnt.vivatube.
-||browser-intake-*-datadoghq.com^
-||cnt.tubeon.
-||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
-||df.infra.sz.shopee.
-||ax.*.ifeng.com^
-||datacollector-*.dt.dbankcloud.cn^
-||bi-eventtracker-*.amazonaws.com^
-||batchlogging*-noneu.truecaller.com^
-||asd8900.oss-*.aliyuncs.com^
-||bc.geocities.
-||cnt.yeptube.
-||bdcpro*.techweb.com.cn^
-||dm*.ppzuowen.com^
-||bd*-ys.km.com^
-||cnt.hd21.
-||collect-v*.51.la^
-||datacollector-*.dt.hicloud.com^
-||ce-global-track-*.amazonaws.com^
-||d*.ruiwen.com^
-||device-metrics-us*.amazon.com^
-||cnt.nuvid.
-||bdlm*.hc360.com^
-||collect-elb-*.amazonaws.com^
-||c*hit.zerkalo.io^
-||collector-*.tvsquared.com^
-||d*.xinshipu.com^
-||counter*-yadro*-ru.unblocked.lol^
-||at*.doubanio.com^
-||dm*.yxlady.com^
-||auth-*.hismarttv.com^
-||collector-*.px-client.net^
-||batchlogging*-eu.truecaller.com^
-||beacons*.gvt3.com^
-||crslhvbltc._tcp.att.hb.tt.omtrdc.net^
-||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
-||button.blogs.yandex.
-||collector.xhamster*.
-||df.infra.shopee.
+||ana*.inews24.com^
+||a*.chajiaotong.com^
+||adservice.google.
+||a*.smlog.co.kr^
+||ac*.786ip.com^
+||analytics-*-nfl.yinzcam.com^
+||analytics-api.dvdfab.
+||analytics*.carambo.la^
+||api*.amplitude.com^
+||app-analytics-*.snapchat.com^
+||ad*.on.cc^
+||analytics.ticketmaster.
+||ac*.pingguolv.com^
+||analytics-rollout-*.amazonaws.com^
+||api-*.hismarttv.com^
+||appanalysis*.banggood.com^
+||analytics.streamfab.
+||adi*.cnool.net^
+||adcounter*.uptolike.ru^
+||ad*.ettoday.net^
+||ads*-normal*.zijieapi.com^
+||ads-dmp-collect.*.karrotmarket.com^
+||ac*.faxingchina.com^
+||aff*.kolektiva.net^
+||analytics*.prezly.com^
+||acookie.*.gif?
+||analytics*.clickdimensions.com^
+||analytics.*.sky.com^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
 ||crocodile.rapid-sale.co.uk^
 ||azq.zozo.jp^
@@ -104154,62 +104103,56 @@ ubmcmm.baidustatic.com
 ||ccav.website^
 ||cdrhjt.com^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-||host*.nti.nl^
-||grs.dbankcloud.
-||gtmdev.jabra.
-||fanpingbi*.gaokao.com^
-||log*.vietnamplus.vn^
-||hn-ping*.hashnode.com^
-||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
-||fb_servpub-a.akamaihd.net^
-||host*.carl-ras.dk^
-||liveme-sensors-collect2-*.amazonaws.com^
-||host*.ncoi.nl^
-||ja*.gamersky.com^
-||log*-applog-*.tiktokv.com^
-||lively-collect-elb-*.amazonaws.com^
-||lt*.tritondigital.com^
-||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
-||maas-*.phunware.com^
-||hstats*.hepsiburada.com^
-||geoloc*.geo20120530.com^
-||fp-*it*.fengkongcloud.com^
-||log*-misc-lf.amemv.com^
-||host*.rvshare.com^
-||host*.polaroid.com^
-||events*.cre.ma^
-||geoloc*.geostats.ovh^
-||js*.abolezi.com^
-||f-log-*.grammarly.io^
-||imp-*.jampp.com^
-||ky891.oss-*.aliyuncs.com^
-||iptracker-lb-*.amazonaws.com^
-||js.*2023*.live^
-||impservice*.youdao.com^
-||logger-*.dailymotion.com^
-||geotargetly-api-*.com^
-||gscounters.*.gigya.com^
-||invenio_tracking_*.sgnapps.com^
-||events-api*.outfit7.com^
-||fpb*.51edu.com^
-||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
-||log-*.previewnetworks.com^
-||gtlpa*.com^
-||eum*.instana.io^
-||log-collector.shopee.
-||gcw*.2liang.cn^
-||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
-||impservice*.yodao.com^
-||js.*2023*.xyz^
-||fpb1.chinacar.
-||flurry.agentportal.*.yahoodns.net^
-||logservice-*.platform.dbankcloud.cn^
-||log*.aliyuncs.com^
-||geoloc*.geovisite.ovh^
-||flurry.agentportal-*.yahoodns.net^
-||host*.rigbyandpeller.com^
-||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
-||log*.byteoversea.com^
+||cnt.winporn.
+||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
+||cs*.mp3bars.com^
+||clog*.yuanfudao.com^
+||collector.hamsterix.
+||bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net^
+||dn*.ixinwei.com^
+||bjkedv*.xyz^
+||device-metrics-*.amazon.com^
+||datacollect*.abtasty.com^
+||cnt.proporn.
+||cnt.vivatube.
+||browser-intake-*-datadoghq.com^
+||cnt.tubeon.
+||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
+||df.infra.sz.shopee.
+||ax.*.ifeng.com^
+||datacollector-*.dt.dbankcloud.cn^
+||bi-eventtracker-*.amazonaws.com^
+||batchlogging*-noneu.truecaller.com^
+||asd8900.oss-*.aliyuncs.com^
+||bc.geocities.
+||cnt.yeptube.
+||bdcpro*.techweb.com.cn^
+||dm*.ppzuowen.com^
+||bd*-ys.km.com^
+||cnt.hd21.
+||collect-v*.51.la^
+||datacollector-*.dt.hicloud.com^
+||ce-global-track-*.amazonaws.com^
+||d*.ruiwen.com^
+||device-metrics-us*.amazon.com^
+||cnt.nuvid.
+||bdlm*.hc360.com^
+||collect-elb-*.amazonaws.com^
+||c*hit.zerkalo.io^
+||collector-*.tvsquared.com^
+||d*.xinshipu.com^
+||counter*-yadro*-ru.unblocked.lol^
+||at*.doubanio.com^
+||dm*.yxlady.com^
+||auth-*.hismarttv.com^
+||collector-*.px-client.net^
+||batchlogging*-eu.truecaller.com^
+||beacons*.gvt3.com^
+||crslhvbltc._tcp.att.hb.tt.omtrdc.net^
+||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
+||button.blogs.yandex.
+||collector.xhamster*.
+||df.infra.shopee.
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
 ||kszvmqo.cn^
 ||globalmed.actonservice.com^
@@ -109345,37 +109288,62 @@ ubmcmm.baidustatic.com
 ||kazigua.top^
 ||lfpfpl.andar.co.kr^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-||pixel*.production-public.tubi.io^
-||mobileanalytics.*.amazonaws.com^
-||sax*.sina.
-||matt.mercadolibre.
-||pixel*.adswizz.com
-||mapi-log.qoo*.jp^
-||mcdp-*.outbrain.com^
-||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
-||rum*.a.trbcdn.net^
-||sd.yhzzzs*.com^
-||mon*-platform-*.tiktokv.com^
-||report.*.qq.com^
-||mcs-va-*.tiktokv.com^
-||px*.mediahills.ru^
-||mail._domainkey.hb.tt.omtrdc.net^
-||mon-*.tiktokv.com^
-||p26.gejulm*.com^
-||pixelapi-*.cs.mysamba.tv^
-||rum*.cdnvideo.ru^
-||same*.stockstar.com^
-||metric*.rediff.com^
-||report*.appmetrica.webvisor.com^
-||rtlog*.tiktokv.com^
-||opnked*.xyz^
-||pixel-*.rubiconproject.com^
-||piano_log.kingsoft.jp^
-||sam*.baby-kingdom.com^
-||pixel.archive.
-||qpb*.sohu.com^
-||mon*-*.tiktokv.us^
-||pxl-*.ozone.ru^
+||host*.nti.nl^
+||grs.dbankcloud.
+||gtmdev.jabra.
+||fanpingbi*.gaokao.com^
+||log*.vietnamplus.vn^
+||hn-ping*.hashnode.com^
+||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
+||fb_servpub-a.akamaihd.net^
+||host*.carl-ras.dk^
+||liveme-sensors-collect2-*.amazonaws.com^
+||host*.ncoi.nl^
+||ja*.gamersky.com^
+||log*-applog-*.tiktokv.com^
+||lively-collect-elb-*.amazonaws.com^
+||lt*.tritondigital.com^
+||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
+||maas-*.phunware.com^
+||hstats*.hepsiburada.com^
+||geoloc*.geo20120530.com^
+||fp-*it*.fengkongcloud.com^
+||log*-misc-lf.amemv.com^
+||host*.rvshare.com^
+||host*.polaroid.com^
+||events*.cre.ma^
+||geoloc*.geostats.ovh^
+||js*.abolezi.com^
+||f-log-*.grammarly.io^
+||imp-*.jampp.com^
+||ky891.oss-*.aliyuncs.com^
+||iptracker-lb-*.amazonaws.com^
+||js.*2023*.live^
+||impservice*.youdao.com^
+||logger-*.dailymotion.com^
+||geotargetly-api-*.com^
+||gscounters.*.gigya.com^
+||invenio_tracking_*.sgnapps.com^
+||events-api*.outfit7.com^
+||fpb*.51edu.com^
+||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
+||log-*.previewnetworks.com^
+||gtlpa*.com^
+||eum*.instana.io^
+||log-collector.shopee.
+||gcw*.2liang.cn^
+||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
+||impservice*.yodao.com^
+||js.*2023*.xyz^
+||fpb1.chinacar.
+||flurry.agentportal.*.yahoodns.net^
+||logservice-*.platform.dbankcloud.cn^
+||log*.aliyuncs.com^
+||geoloc*.geovisite.ovh^
+||flurry.agentportal-*.yahoodns.net^
+||host*.rigbyandpeller.com^
+||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
+||log*.byteoversea.com^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
 ||mainlifestyle.tns-gallup.dk^
 ||pipeline0.tt.tt.tt.omtrdc.net^
@@ -115708,39 +115676,37 @@ ubmcmm.baidustatic.com
 ||management.tt.omtrdc.net^
 ||saorsa.tt.omtrdc.net^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-||tracking.*.miui.com^
-||t*.zcvh.net^
-||stats*.credit-cooperatif.coop^
-||tracking*.euroads.fi^
-||tracking.olx.
-||sta.extreme-down.
-||sensorsdata*.read.duokan.com^
-||servo-report.dvdfab.
-||sock*-goguardian.pusher.com^
-||track.zalando.
-||seller-log-collector.shopee.
-||sta.zone-telechargement.
-||tracking-*.trnox.com^
-||st-*.dynamicyield.com^
-||static*.365inews.com^
-||t.delfi.
-||sgtm.fashionunited.
-||track.*.roku.com^
-||stat.*.v-56.com^
-||stats-*.p2pnow.ru^
-||thezbpe5*.xyz^
-||telemetry*.transcend.io^
-||tnc16-*.byteoversea.com^
-||stats2.*.fdnames.com^
-||stat.tiara.
-||stats.zone-telechargement.
-||tracker.twenga.
-||stats.zone-annuaire.
-||ssp*.rtb.beeline.ru^
-||stat*.1internet.tv^
-||sta.wawacity.
-||stats*.videonow.ru^
-||track.tiara.
+||pixel*.production-public.tubi.io^
+||mobileanalytics.*.amazonaws.com^
+||sax*.sina.
+||matt.mercadolibre.
+||pixel*.adswizz.com
+||mapi-log.qoo*.jp^
+||mcdp-*.outbrain.com^
+||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
+||rum*.a.trbcdn.net^
+||sd.yhzzzs*.com^
+||mon*-platform-*.tiktokv.com^
+||report.*.qq.com^
+||mcs-va-*.tiktokv.com^
+||px*.mediahills.ru^
+||mail._domainkey.hb.tt.omtrdc.net^
+||mon-*.tiktokv.com^
+||p26.gejulm*.com^
+||pixelapi-*.cs.mysamba.tv^
+||rum*.cdnvideo.ru^
+||same*.stockstar.com^
+||metric*.rediff.com^
+||report*.appmetrica.webvisor.com^
+||rtlog*.tiktokv.com^
+||opnked*.xyz^
+||pixel-*.rubiconproject.com^
+||piano_log.kingsoft.jp^
+||sam*.baby-kingdom.com^
+||pixel.archive.
+||qpb*.sohu.com^
+||mon*-*.tiktokv.us^
+||pxl-*.ozone.ru^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
 ||smetrics.ciena.com^
 ||stats.wafflemeido.art^
@@ -123457,35 +123423,39 @@ ubmcmm.baidustatic.com
 ||smetrics.sony.be^
 ||smetrics.sasktel.com^
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
-||zcchyr*.xyz^
-||uc*.atobo.com^
-||zaqlovh*.xyz^
-||zazgiyoh*.xyz^
-||zcchyw*.xyz^
-||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
-||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
-||trk*.vidible.tv^
-||xlog*-*.tiktokv.com^
-||ya*.dwstatic.com^
-||ubacollect-*.cloud.dbankcloud.cn^
-||ysdm*.ys137.com.cn^
-||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||zazgiyoh*.world^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||tupian888.*.bcebos.com^
-||zabdybod*.club^
-||yhsfsdv*.com^
-||ubt.tracking.shopee.
-||zazgbqg*.xyz^
-||zbc6hye*.xyz^
-||www.xxmh*.com^
-||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
-||zahrvfbd*.xyz^
-||wa.gmx.
-||zbc6hy*.live^
-||union*.365inews.com^
-||vns86.oss-*.aliyuncs.com^
-||tw*.netcore.co.in^
+||tracking.*.miui.com^
+||t*.zcvh.net^
+||stats*.credit-cooperatif.coop^
+||tracking*.euroads.fi^
+||tracking.olx.
+||sta.extreme-down.
+||sensorsdata*.read.duokan.com^
+||servo-report.dvdfab.
+||sock*-goguardian.pusher.com^
+||track.zalando.
+||seller-log-collector.shopee.
+||sta.zone-telechargement.
+||tracking-*.trnox.com^
+||st-*.dynamicyield.com^
+||static*.365inews.com^
+||t.delfi.
+||sgtm.fashionunited.
+||track.*.roku.com^
+||stat.*.v-56.com^
+||stats-*.p2pnow.ru^
+||thezbpe5*.xyz^
+||telemetry*.transcend.io^
+||tnc16-*.byteoversea.com^
+||stats2.*.fdnames.com^
+||stat.tiara.
+||stats.zone-telechargement.
+||tracker.twenga.
+||stats.zone-annuaire.
+||ssp*.rtb.beeline.ru^
+||stat*.1internet.tv^
+||sta.wawacity.
+||stats*.videonow.ru^
+||track.tiara.
 ! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
 ||www-testuniold.tt.omtrdc.net^
 ||www.gtadtrk.com^
@@ -127593,3 +127563,33 @@ ubmcmm.baidustatic.com
 ||web-frontend-pr-9652.frontend-qa.tt.omtrdc.net^
 ||usb-image-tool.en.tt.omtrdc.net^
 ||whwxxny.com^
+! 👇This Part Merge from: AdRules AdBlock List (https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)
+||zcchyr*.xyz^
+||uc*.atobo.com^
+||zaqlovh*.xyz^
+||zazgiyoh*.xyz^
+||zcchyw*.xyz^
+||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
+||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
+||trk*.vidible.tv^
+||xlog*-*.tiktokv.com^
+||ya*.dwstatic.com^
+||ubacollect-*.cloud.dbankcloud.cn^
+||ysdm*.ys137.com.cn^
+||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
+||zazgiyoh*.world^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||tupian888.*.bcebos.com^
+||zabdybod*.club^
+||yhsfsdv*.com^
+||ubt.tracking.shopee.
+||zazgbqg*.xyz^
+||zbc6hye*.xyz^
+||www.xxmh*.com^
+||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
+||zahrvfbd*.xyz^
+||wa.gmx.
+||zbc6hy*.live^
+||union*.365inews.com^
+||vns86.oss-*.aliyuncs.com^
+||tw*.netcore.co.in^
