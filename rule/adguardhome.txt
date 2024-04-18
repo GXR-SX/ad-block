@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: adguardhome.txt
-! Last Modified: 2024-04-18 09:04:38
+! Last Modified: 2024-04-18 16:19:05
 ! Homepage: https://github.com/xndeye/adblock_list
 ! 👇This Part Merge from: halflife-list (https://github.com/sbwml/halflife-list/blob/master/ad-pc.txt)
           Code
@@ -88188,6 +88188,7 @@ gcdsdk.appsflyersdk.com^
 ||apps.wholefoodsmarket.com^
 ||upgalethalers.guru^
 ||serviceo.xfinity.com^
+||1.zuowenjun.com^
 ||m.y9062t.cn^
 ||ssc.voaafrique.com^
 ||collector-soompi.viki.io^
@@ -93135,7 +93136,6 @@ outlook.live.com._6tqjFb_HmyQup_NPe6dhC
 ||a16445.actonservice.com^
 ||32.17.251pluralsight.hb.tt.omtrdc.net^
 ||17.241abc.hb-api.tt.omtrdc.net^
-||1.zuowenjun.com^
 ||a17153.actonservice.com^
 ||a13112.actonservice.com^
 ||251metlife.hb.tt.omtrdc.net^
@@ -96545,6 +96545,7 @@ t.yesware.com
 ||a17591.actonservice.com^
 ||a41628.actonservice.com^
 ||182cbcca.hb.tt.omtrdc.net^
+||6quspne.com^
 ||a27304.actonservice.com^
 ||518geelong.treker.fun^
 ||10zyxwvutsrqponmlkjihgfedcbawo.digitalpublishing.tt.omtrdc.net^
@@ -103803,7 +103804,6 @@ ubmcmm.baidustatic.com
 ||data-3b663a74a3.apps.iocnt.de^
 ||jjdciu.justspices.de^
 ||js.kalvinbg.cn^
-||js.ruiwen.com^
 ||data-6463194ae5.fitbook.de^
 ||email-smartech.branch.rocks^
 ||hsbceg.tt.omtrdc.net^
@@ -105604,6 +105604,7 @@ ubmcmm.baidustatic.com
 ||go.sitesapostasbrasil.com^
 ||fefall.trekkww.fun^
 ||data-8abe5cc617.fupa.net^
+||hglm.com^
 ||data-c66a1ae096.focus.de^
 ||fortbclk.fortbitestore.online^
 ||go.thebigtrend.net^
@@ -108617,6 +108618,7 @@ ubmcmm.baidustatic.com
 ||diaetoxilclk.getbestnow.online^
 ||data-5e25716aa5.apps.iocnt.de^
 ||data-e392d35d53.kino-zeit.de^
+||gcomwx.icu^
 ||hr.promo.skf.com^
 ||data-60d896f23d.lvz.de^
 ||data.e.silverfernfarms.com^
@@ -108810,7 +108812,6 @@ ubmcmm.baidustatic.com
 ||parrot.lovably.com^
 ||llama.vivriticapital.com^
 ||lgelectronicsinc.tt.omtrdc.net^
-||rce.iperceptions.com^
 ||metrics.caracoltv.com^
 ||namcah.alipearlhair.com^
 ||novarecoverycenter.actonservice.com^
@@ -109569,6 +109570,7 @@ ubmcmm.baidustatic.com
 ||mscdirect.tt.omtrdc.net^
 ||new.searchadsw.top^
 ||pages.medpolicyfinder.com^
+||js.ruiwen.com^
 ||pii-stg.tt.omtrdc.net^
 ||musicdev.tt.tt.omtrdc.net^
 ||metrics.dickssportinggoods.com^
@@ -113802,7 +113804,6 @@ ubmcmm.baidustatic.com
 ||meerkat.inprivy.io^
 ||macys-ash.tt.tt.omtrdc.net^
 ||prowareness.actonservice.com^
-||rcounter.rambler.ru^
 ||ptmabek.cn^
 ||my.11teamsports.com^
 ||metrics.statestreet.com^
@@ -114746,6 +114747,7 @@ ubmcmm.baidustatic.com
 ||t.ssp.hinet.net^
 ||sleephappens.tt.omtrdc.net^
 ||track.financialboostfinder.com^
+||rce.iperceptions.com^
 ||saturn.trekkeeee.fun^
 ||smetrics.helios-gesundheit.de^
 ||slimane.treker.fun^
@@ -117706,6 +117708,7 @@ ubmcmm.baidustatic.com
 ||smetrics.mymatrixx.com^
 ||smetrics.thinkoutsidethebag.com^
 ||smetrics.esbriet.com^
+||rcounter.rambler.ru^
 ||talbotsinccompany.tt.tt.omtrdc.net^
 ||smetrics.controlcenter.com^
 ||smetrics.snapfish.nl^
@@ -118995,7 +118998,6 @@ ubmcmm.baidustatic.com
 ||smetrics.kone.co.ke^
 ||track.bestreview.app^
 ||smetrics.bcbsks.com^
-||track.mp4.center^
 ||smetrics.expowest.com^
 ||smetrics.mastercardeasysavings.com^
 ||smetrics.wnetwork.com^
@@ -122872,6 +122874,7 @@ ubmcmm.baidustatic.com
 ||www.enterprisingoperation-7.com^
 ||www.lead-analytics-1000.com^
 ||tracking.janssenmedicalcloud.de^
+||track.mp4.center^
 ||track.performancegolf.com^
 ||trackingapi.meinprospekt.de^
 ||zabbix-mboxedge38.tt.omtrdc.net^
